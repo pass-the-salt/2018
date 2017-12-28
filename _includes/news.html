@@ -1,0 +1,29 @@
+<section id="news" class="download bg-primary text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2 class="section-heading">News:</h2>
+                  <ul>
+                    {% assign posts=site.posts | where:"lang", page.lang %} 
+                    {% for post in posts limit: 2 %}
+                       <li><a style="color:orange" href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_long_string }}</li>
+                    {% endfor %}
+                  </ul>
+                <h2 class="section-heading">Timeline:</h2>
+                <p>2018 Pass the SALT has currently reach <spam style="color:orange"> this stage</span>:</p>
+                <p>
+                    <ul>
+                        <li style="color:orange"><b>ANNOUNCEMENT : launch of the 2018 Pass the SALT</b></li>
+                        <li>January 23, 2018 : openning of the Call For Paper</li> 
+                        <li>March 31, 2018 : closing of the Call For Paper</li> 
+                        <li>April 15, 2018 : notification of the speakers</li> 
+                        <li>April 30, 2018 : publication of the program</li> 
+                        <li>Mid May, 2018  : openning of the booking interface<br>(entrance is free but due to the capcity of the room, booking is required).</li> 
+                    </ul>
+<!--                    <a class="badge-link" href="#"><img src="/img/google-play-badge.svg" alt=""></a>
+                    <a class="badge-link" href="#"><img src="/img/app-store-badge.svg" alt=""></a> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
