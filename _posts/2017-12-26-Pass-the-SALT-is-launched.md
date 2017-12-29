@@ -12,7 +12,7 @@ lang: en
 ---
 
 ### Why?
-After many years curating the RMLL Security Track ([last year edition program](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2)), we (Mathieu Blanc, Christophe Brocas, Philippe Teuwen and joining this year, Cedric Foll) have decided to jump and create an autonomous event dedicated to Free Software and Security.
+After many years curating the RMLL Security Track ([last year edition program](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2)), we (Mathieu Blanc, Christophe Brocas, Philippe Teuwen and joining this year, Cedric Foll) have decided to jump and create an **autonomous and free (as in free beer) event dedicated to Free Software and Security**.
 
 We really want to **thank all the people met during all these years of RMLL organization** with a particular focus for tracks chairwomen and chairmen : we achieved plenty of good things, and when we have failed, we failed and managed to recover **all together**. Thanks for that !
 

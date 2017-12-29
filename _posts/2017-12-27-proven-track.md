@@ -12,7 +12,7 @@ lang: en
 ---
 
 ## Introduction
-After many years of curation of the [Security Track](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) of the [RMLL](http://rmll.info/) (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a dedicated event to Security and Free Software : Pass the SALT (Security And Libre Talks).
+After many years of curation of the [Security Track](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) of the [RMLL](http://rmll.info/) (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a dedicated free (as in free beer) event to Security and Free Software : Pass the SALT (Security And Libre Talks).
 
 On this page, we will expose our goal and what we have achieved during the curation of the RMLL Security track.
 
@@ -31,7 +31,9 @@ _Do our best to facilitate meetings and exchanges between lecturers and the publ
 
 Here, we are not going to give a detailed list of things we think that have to be done but rather, a short list of important (according to us) levers that helped us to reach these goals.
 
-First of all, while respecting the technical and free software DNA of the Security track, we try to ensure that **as many security disciplines as possible are represented** in the subjects covered by the conferences given.
+First of all, we want to provide a free (as in free beer) event to attendees. According to us, this is the best way to enable all kind of attendees to come : we think about students or people with low income but it is also a way to see professionals coming on their own without having to negociate money with their company.
+
+While respecting the technical and free software DNA of the Security track, we try to ensure that **as many security disciplines as possible are represented** in the subjects covered by the conferences given.
 
 In 2017, you were able to participate (or [read](https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=en) / [view](https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315) later) interventions on the following topics:
 

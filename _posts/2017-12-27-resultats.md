@@ -12,7 +12,7 @@ lang: fr
 ---
 
 ## Introduction
-Après de nombreuses années passées à effectuer la curation du [thème Sécurité](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) des [RMLL](http://rmll.info/) (un événement français  généraliste multi-thèmes autour des Logiciels Libres), nous avons décidé de créer en 2018 un événement en langue anglaise dédié à la Sécurité et aux Logiciels Libres : Pass the SALT (Security And Libre Talks).
+Après de nombreuses années passées à effectuer la curation du [thème Sécurité](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) des [RMLL](http://rmll.info/) (un événement français  généraliste multi-thèmes autour des Logiciels Libres), nous avons décidé de créer en 2018 un événement gratuit en langue anglaise dédié à la Sécurité et aux Logiciels Libres : Pass the SALT (Security And Libre Talks).
 
 Sur cette page, vous trouverez expliquer nos objectifs pour Pass the SALT et ce que nous avons réalisé lors de l'animation du thème Sécurité des RMLL. 
 
@@ -31,7 +31,9 @@ _Tout mettre en œuvre pour faciliter les rencontres et les échanges entre conf
 
 Ici, nous n'allons pas donné une liste détaillée des choses qu'il faut faire mais plutôt une courte liste de leviers que nous pensons importants pour nous aider à atteindre ces objectifs.
 
-Tout d'abord, tout en respectant l'ADN technique et logiciel libre du thème Sécurité, nous essayons de faire en sorte qu'un maximum de disciplines de la Sécurité soient représentées dans les sujets couverts par les conférences données.
+Tout d'abord, nous voulons fournir une conférence gratuite. C'est, selon nous, le meilleur moyen pour permettre à tous les types de publics de fréquenter notre événement. On pense immédiatement aux étudiants ou aux personnes avec peu de ressources financières. Mais cela permet aussi à des professionnels de venir sans avoir à négocier un financement avec leur entreprise.  
+
+Ensuite, tout en respectant l'ADN technique et logiciel libre du thème Sécurité, nous essayons de faire en sorte qu'un maximum de disciplines de la Sécurité soient représentées dans les sujets couverts par les conférences données.
 
 En 2017, vous avez pu suivre (ou [lire](https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=fr) / [view](https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315) revoir) des interventions sur les thématiques suivantes :
 

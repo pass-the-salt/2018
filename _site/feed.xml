@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-29T20:10:29+01:00</updated><id>http://localhost:4000/</id><entry xml:lang="fr"><title type="html">Objectifs et résultats de Pass the SALT et du thème Sécurité des RMLL</title><link href="http://localhost:4000/resultats/" rel="alternate" type="text/html" title="Objectifs et résultats de Pass the SALT et du thème Sécurité des RMLL" /><published>2017-12-27T00:00:00+01:00</published><updated>2017-12-27T00:00:00+01:00</updated><id>http://localhost:4000/resultats</id><content type="html" xml:base="http://localhost:4000/resultats/">&lt;h2 id=&quot;objectif-de-pass-the-salt-et-résultats-obtenus-par-le-thème-sécurité-des-rmll-&quot;&gt;Objectif de Pass the SALT et résultats obtenus par le thème Sécurité des RMLL :)&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-29T20:35:39+01:00</updated><id>http://localhost:4000/</id><entry xml:lang="fr"><title type="html">Objectifs et résultats de Pass the SALT et du thème Sécurité des RMLL</title><link href="http://localhost:4000/resultats/" rel="alternate" type="text/html" title="Objectifs et résultats de Pass the SALT et du thème Sécurité des RMLL" /><published>2017-12-27T00:00:00+01:00</published><updated>2017-12-27T00:00:00+01:00</updated><id>http://localhost:4000/resultats</id><content type="html" xml:base="http://localhost:4000/resultats/">&lt;h2 id=&quot;objectif-de-pass-the-salt-et-résultats-obtenus-par-le-thème-sécurité-des-rmll-&quot;&gt;Objectif de Pass the SALT et résultats obtenus par le thème Sécurité des RMLL :)&lt;/h2&gt;
 
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Après de nombreuses années passées à effectuer la curation du &lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;thème Sécurité&lt;/a&gt; des &lt;a href=&quot;http://rmll.info/&quot;&gt;RMLL&lt;/a&gt; (un événement français  généraliste multi-thèmes autour des Logiciels Libres), nous avons décidé de créer en 2018 un événement en langue anglaise dédié à la Sécurité et aux Logiciels Libres : Pass the SALT (Security And Libre Talks).&lt;/p&gt;
+&lt;p&gt;Après de nombreuses années passées à effectuer la curation du &lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;thème Sécurité&lt;/a&gt; des &lt;a href=&quot;http://rmll.info/&quot;&gt;RMLL&lt;/a&gt; (un événement français  généraliste multi-thèmes autour des Logiciels Libres), nous avons décidé de créer en 2018 un événement gratuit en langue anglaise dédié à la Sécurité et aux Logiciels Libres : Pass the SALT (Security And Libre Talks).&lt;/p&gt;
 
 &lt;p&gt;Sur cette page, vous trouverez expliquer nos objectifs pour Pass the SALT et ce que nous avons réalisé lors de l’animation du thème Sécurité des RMLL.&lt;/p&gt;
 
@@ -22,7 +22,9 @@
 
 &lt;p&gt;Ici, nous n’allons pas donné une liste détaillée des choses qu’il faut faire mais plutôt une courte liste de leviers que nous pensons importants pour nous aider à atteindre ces objectifs.&lt;/p&gt;
 
-&lt;p&gt;Tout d’abord, tout en respectant l’ADN technique et logiciel libre du thème Sécurité, nous essayons de faire en sorte qu’un maximum de disciplines de la Sécurité soient représentées dans les sujets couverts par les conférences données.&lt;/p&gt;
+&lt;p&gt;Tout d’abord, nous voulons fournir une conférence gratuite. C’est, selon nous, le meilleur moyen pour permettre à tous les types de publics de fréquenter notre événement. On pense immédiatement aux étudiants ou aux personnes avec peu de ressources financières. Mais cela permet aussi à des professionnels de venir sans avoir à négocier un financement avec leur entreprise.&lt;/p&gt;
+
+&lt;p&gt;Ensuite, tout en respectant l’ADN technique et logiciel libre du thème Sécurité, nous essayons de faire en sorte qu’un maximum de disciplines de la Sécurité soient représentées dans les sujets couverts par les conférences données.&lt;/p&gt;
 
 &lt;p&gt;En 2017, vous avez pu suivre (ou &lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=fr&quot;&gt;lire&lt;/a&gt; / &lt;a href=&quot;https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315&quot;&gt;view&lt;/a&gt; revoir) des interventions sur les thématiques suivantes :&lt;/p&gt;
 
@@ -177,7 +179,7 @@
 &lt;hr /&gt;
 
 &lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;After many years of curation of the &lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;Security Track&lt;/a&gt; of the &lt;a href=&quot;http://rmll.info/&quot;&gt;RMLL&lt;/a&gt; (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a dedicated event to Security and Free Software : Pass the SALT (Security And Libre Talks).&lt;/p&gt;
+&lt;p&gt;After many years of curation of the &lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;Security Track&lt;/a&gt; of the &lt;a href=&quot;http://rmll.info/&quot;&gt;RMLL&lt;/a&gt; (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a dedicated free (as in free beer) event to Security and Free Software : Pass the SALT (Security And Libre Talks).&lt;/p&gt;
 
 &lt;p&gt;On this page, we will expose our goal and what we have achieved during the curation of the RMLL Security track.&lt;/p&gt;
 
@@ -196,7 +198,9 @@
 
 &lt;p&gt;Here, we are not going to give a detailed list of things we think that have to be done but rather, a short list of important (according to us) levers that helped us to reach these goals.&lt;/p&gt;
 
-&lt;p&gt;First of all, while respecting the technical and free software DNA of the Security track, we try to ensure that &lt;strong&gt;as many security disciplines as possible are represented&lt;/strong&gt; in the subjects covered by the conferences given.&lt;/p&gt;
+&lt;p&gt;First of all, we want to provide a free (as in free beer) event to attendees. According to us, this is the best way to enable all kind of attendees to come : we think about students or people with low income but it is also a way to see professionals coming on their own without having to negociate money with their company.&lt;/p&gt;
+
+&lt;p&gt;While respecting the technical and free software DNA of the Security track, we try to ensure that &lt;strong&gt;as many security disciplines as possible are represented&lt;/strong&gt; in the subjects covered by the conferences given.&lt;/p&gt;
 
 &lt;p&gt;In 2017, you were able to participate (or &lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=en&quot;&gt;read&lt;/a&gt; / &lt;a href=&quot;https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315&quot;&gt;view&lt;/a&gt; later) interventions on the following topics:&lt;/p&gt;
 
@@ -350,7 +354,7 @@
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;why&quot;&gt;Why?&lt;/h3&gt;
-&lt;p&gt;After many years curating the RMLL Security Track (&lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;last year edition program&lt;/a&gt;), we (Mathieu Blanc, Christophe Brocas, Philippe Teuwen and joining this year, Cedric Foll) have decided to jump and create an autonomous event dedicated to Free Software and Security.&lt;/p&gt;
+&lt;p&gt;After many years curating the RMLL Security Track (&lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;last year edition program&lt;/a&gt;), we (Mathieu Blanc, Christophe Brocas, Philippe Teuwen and joining this year, Cedric Foll) have decided to jump and create an &lt;strong&gt;autonomous and free (as in free beer) event dedicated to Free Software and Security&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;We really want to &lt;strong&gt;thank all the people met during all these years of RMLL organization&lt;/strong&gt; with a particular focus for tracks chairwomen and chairmen : we achieved plenty of good things, and when we have failed, we failed and managed to recover &lt;strong&gt;all together&lt;/strong&gt;. Thanks for that !&lt;/p&gt;
 
@@ -370,7 +374,7 @@ Mathieu, Christophe, Cédric and Philippe&lt;/p&gt;</content><author><name></nam
 &lt;hr /&gt;
 
 &lt;h3 id=&quot;pourquoi-&quot;&gt;Pourquoi ?&lt;/h3&gt;
-&lt;p&gt;Après un bon nombre d’années passées à animer le thème Sécurité des RMLL (&lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=fr&amp;amp;t=2&quot;&gt;programme de la dernière édition&lt;/a&gt;), nous (Mathieu Blanc, Christophe Brocas, Philippe Teuwen et Cédric Foll qui nous rejoint cette année) avons décidé de sauter le pas et de créer un événement dédié à la Sécurité et au Logiciel Libre.&lt;/p&gt;
+&lt;p&gt;Après un bon nombre d’années passées à animer le thème Sécurité des RMLL (&lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=fr&amp;amp;t=2&quot;&gt;programme de la dernière édition&lt;/a&gt;), nous (Mathieu Blanc, Christophe Brocas, Philippe Teuwen et Cédric Foll qui nous rejoint cette année) avons décidé de sauter le pas et de créer un &lt;strong&gt;événement gratuit dédié à la Sécurité et au Logiciel Libre&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Nous tenons à &lt;strong&gt;remercier toutes les personnes que nous avons eu le bonheur de cotoyer&lt;/strong&gt; tout au long de ces années durant l’organisation des RMLL avec une attention particulière pour les responsables de thèmes : nous avons accompli plein de belles choses et quand nous avons échoué, nous avons échoué mais aussi nous nous sommes rétablis … &lt;strong&gt;tous ensemble&lt;/strong&gt; ! Merci vraiment pour cela !&lt;/p&gt;
 

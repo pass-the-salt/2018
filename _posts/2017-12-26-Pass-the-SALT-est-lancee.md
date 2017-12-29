@@ -12,7 +12,7 @@ lang: fr
 ---
 
 ### Pourquoi ?
-Après un bon nombre d'années passées à animer le thème Sécurité des RMLL ([programme de la dernière édition](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=fr&t=2)), nous (Mathieu Blanc, Christophe Brocas, Philippe Teuwen et Cédric Foll qui nous rejoint cette année) avons décidé de sauter le pas et de créer un événement dédié à la Sécurité et au Logiciel Libre.
+Après un bon nombre d'années passées à animer le thème Sécurité des RMLL ([programme de la dernière édition](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=fr&t=2)), nous (Mathieu Blanc, Christophe Brocas, Philippe Teuwen et Cédric Foll qui nous rejoint cette année) avons décidé de sauter le pas et de créer un **événement gratuit dédié à la Sécurité et au Logiciel Libre**.
 
 Nous tenons à **remercier toutes les personnes que nous avons eu le bonheur de cotoyer** tout au long de ces années durant l'organisation des RMLL avec une attention particulière pour les responsables de thèmes : nous avons accompli plein de belles choses et quand nous avons échoué, nous avons échoué mais aussi nous nous sommes rétablis ... **tous ensemble** ! Merci vraiment pour cela !
 
