@@ -14,7 +14,7 @@ lang: fr
 ## Introduction
 Après de nombreuses années passées à effectuer la curation du [thème Sécurité](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) des [RMLL](http://rmll.info/) (un événement français  généraliste multi-thèmes autour des Logiciels Libres), nous avons décidé de créer en 2018 un événement gratuit en langue anglaise dédié à la Sécurité et aux Logiciels Libres : Pass the SALT (Security And Libre Talks).
 
-Sur cette page, vous trouverez expliquer nos objectifs pour Pass the SALT et ce que nous avons réalisé lors de l'animation du thème Sécurité des RMLL. 
+Sur cette page, vous trouverez expliqués nos objectifs pour Pass the SALT et ce que nous avons réalisé lors de l'animation du thème Sécurité des RMLL. 
 
 ## Notre objectif
 Pour ce qui est de comprendre les objectifs et l'esprit, Peter Czanik, conférencier, nous donne des pistes de réponses au travers [du compte rendu de sa participation aux RMLL 2017.](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
