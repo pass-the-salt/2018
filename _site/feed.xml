@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018 Pass the SALT RSS</title>
+    <description>Some news</description>
+    <link>https://2018.pass-the-salt.org</link>
+
+    
+    
+      <item>
+        <title>Pass the SALT goal and RMLL Security track results</title>
+        <description>&lt;h2 id=&quot;pass-the-salt-goal-and-rmll-security-track-achievements-&quot;&gt;Pass the SALT goal and RMLL Security track achievements :)&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;After many years of curation of the &lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;Security Track&lt;/a&gt; of the &lt;a href=&quot;http://rmll.info/&quot;&gt;RMLL&lt;/a&gt; (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a dedicated free (as in free beer) event to Security and Free Software : Pass the SALT (Security And Libre Talks).&lt;/p&gt;
+
+&lt;p&gt;On this page, we will expose our goal and what we have achieved during the curation of the RMLL Security track.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-goal&quot;&gt;Our goal&lt;/h2&gt;
+&lt;p&gt;To understand the objectives and the spirit, Peter Czanik, lecturer, gives us some answers through the &lt;a href=&quot;https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/&quot;&gt;report of his participation in the RMLL 2017&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is how he summarizes his coming this year:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“I participated again in Security track … “&lt;strong&gt;Participated&lt;/strong&gt;” as I did not only give a talk on syslog-ng there, but also sat in to most of the presentations and had &lt;strong&gt;very good discussions both with visitors and fellow speakers&lt;/strong&gt;. The organizers brought together &lt;strong&gt;talks from diverse IT security-related fields&lt;/strong&gt;, a very good opportunity for &lt;strong&gt;cross-pollination of ideas&lt;/strong&gt;”. (Note: emphasis is on our own)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Peter has perfectly synthesized what we are trying to achieve through the RMLL Security track  year after year:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Do our best to facilitate meetings and exchanges between lecturers and the public. The goal is that these exchanges generate collaborations between developers or projects but also produce new features in free software of the Security sphere.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-reach-our-goal&quot;&gt;How to reach our goal&lt;/h2&gt;
+
+&lt;p&gt;Here, we are not going to give a detailed list of things we think that have to be done but rather, a short list of important (according to us) levers that helped us to reach these goals.&lt;/p&gt;
+
+&lt;p&gt;First of all, we want to provide a free (as in free beer) event to attendees. According to us, this is the best way to enable all kind of attendees to come : we think about students or people with low income but it is also a way to see professionals coming on their own without having to negociate money with their company.&lt;/p&gt;
+
+&lt;p&gt;While respecting the technical and free software DNA of the Security track, we try to ensure that &lt;strong&gt;as many security disciplines as possible are represented&lt;/strong&gt; in the subjects covered by the conferences given.&lt;/p&gt;
+
+&lt;p&gt;In 2017, you were able to participate (or &lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=en&quot;&gt;read&lt;/a&gt; / &lt;a href=&quot;https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315&quot;&gt;view&lt;/a&gt; later) interventions on the following topics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;privacy ,&lt;/li&gt;
+  &lt;li&gt;digital forensics ,&lt;/li&gt;
+  &lt;li&gt;networks and systems security ,&lt;/li&gt;
+  &lt;li&gt;cryptography,&lt;/li&gt;
+  &lt;li&gt;low level offensive&lt;/li&gt;
+  &lt;li&gt;or retro-engineering.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We want both attendees and speakers to confront to different subjects or disciplines of Security that are not always familiar to them.&lt;/p&gt;
+
+&lt;p&gt;This allows everyone to discover new fields of exploration and to pick innovative solutions that she/he can reuse in her/his projects or work.&lt;/p&gt;
+
+&lt;p&gt;Beyond the different and varied subjects, we also try to establish a climate as friendly as possible in order to maximize exchanges. During the conference, it is very rare to find a “star attitude” among our speakers. They are all free software users and/or developers and so, perfectly understand the importance of sharing with and helping people.&lt;/p&gt;
+
+&lt;p&gt;During talks, we do our best to encourage attendees to interact with speakers both during the session and during breaks or later during the event.&lt;/p&gt;
+
+&lt;p&gt;It is also very important for us the speakers  feel comfortable for coming and attending : they usually don’t know the event (and so attendees), the city and even sometimes the country. So we provide far before their arrival:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a dedicated mailing list,&lt;/li&gt;
+  &lt;li&gt;complete information : how to come, to find accommodations, to do their talk, to contact us, to be reimbursed etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The goal is for all lecturers to come in confidence, get rid of most of their practical questions to be able to take advantage of the event in the most open way.&lt;/p&gt;
+
+&lt;p&gt;During the event, we also set up a speakers’ dinner. The goal is to provide them yet another opportunity to get to know each other better, exchange and let ideas “pollinate” :-)&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;results&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;our-results--contributions&quot;&gt;Our results : contributions&lt;/h2&gt;
+&lt;p&gt;Here is a “living” list, certainly not exhaustive, of the contributions and interactions born of these moments of exchanges.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;2017&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;code&lt;/strong&gt; - Use of the Lief library &lt;a href=&quot;https://twitter.com/adulau/status/908969587869454336&quot;&gt;in MISP&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/rafi0t&quot;&gt;Raphaël Vinot&lt;/a&gt; (developer of the &lt;a href=&quot;https://www.circl.lu/services/misp-malware-information-sharing-platform/&quot;&gt;MISP project&lt;/a&gt; at &lt;a href=&quot;https://www.circl.lu/team/&quot;&gt;CIRCL.LU&lt;/a&gt; among other things) after &lt;a href=&quot;https://twitter.com/rafi0t/status/882248947900854272&quot;&gt;attending&lt;/a&gt; the &lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/lief-bibliotheque-d-instrumentation-de-formats-executables-mais-ca-fait-bife-c?lang=en&quot;&gt;Lief talk&lt;/a&gt; by &lt;a href=&quot;https://github.com/romainthomas&quot;&gt;Romain Thomas&lt;/a&gt; (Quarkslab) during the Security track.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;sharing&lt;/strong&gt; - ​​&lt;a href=&quot;https://twitter.com/PCzanik&quot;&gt;Peter Czanik&lt;/a&gt; will try to use Syslog-NG and MISP together after a discussion with &lt;a href=&quot;https://twitter.com/rafi0t&quot;&gt;Raphaël Vinot&lt;/a&gt; during the speakers’ dinner.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2016&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;sharing&lt;/strong&gt; - Let’s Encrypt through &lt;a href=&quot;https://tacticalsecret.com/&quot;&gt;J.C. Jones&lt;/a&gt; provides &lt;a href=&quot;https://twitter.com/QubesOS/status/750283841743577088&quot;&gt;the information that they use Qubes as the secure platform to do all ops on Let’s encrypt PKI&lt;/a&gt;. Great use case for a great product.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;code&lt;/strong&gt; - &lt;a href=&quot;http://paulk.fr/&quot;&gt;Paul Kocialkowski&lt;/a&gt;, developer of Replicant (Android full free) and embedded theme speaker, attended on Monday &lt;a href=&quot;https://2015.rmll.info/compilations-reproductibles-dans-debian-et-partout-ailleurs?lang=en&quot;&gt;Lunar conference on reproducible builds&lt;/a&gt; in the Security track. On Wednesday, he started the development of the &lt;a href=&quot;https://2015.rmll.info/compilations-reproductibles-dans-debian-et-partout-ailleurs?lang=en&quot;&gt;reproducible build support for the Replicant boot loader with the help of Lunar!&lt;/a&gt; Or how an initiative presented in the Security track can impact the Embedded area.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2014&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;articles / presentations&lt;/strong&gt; - encounter between &lt;a href=&quot;https://twitter.com/angealbertini&quot;&gt;Ange Albertini&lt;/a&gt; (reverser, jedi of file formats) and &lt;a href=&quot;https://twitter.com/doegox&quot;&gt;Philippe Teuwen&lt;/a&gt; (co Security track chairman). This gave a lot of work in common and exchanges in particular through the &lt;a href=&quot;https://www.alchemistowl.org/pocorgtfo/&quot;&gt;journal PoC or GTFO&lt;/a&gt; (The International Journal of Proof-of-Concept or Get The Fuck Out).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2013&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;code&lt;/strong&gt; - &lt;a href=&quot;https://framapiaf.org/@clementoudot&quot;&gt;Clément Oudot&lt;/a&gt;’s contribution on LemonLDAP-NG &lt;a href=&quot;https://jira.ow2.org/browse/LEMONLDAP-584&quot;&gt;implementing the support of Mozilla Persona / BrowserID&lt;/a&gt; following a &lt;a href=&quot;https://schedule2013.rmll.info/programme/technique/securite/article/mozilla-persona-dans-votre?lang=en&quot;&gt;presentation&lt;/a&gt; by &lt;a href=&quot;https://fmarier.org/&quot;&gt;François Marier&lt;/a&gt; (Mozilla) on Persona&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;code&lt;/strong&gt; - development of a &lt;a href=&quot;https://twitter.com/PCzanik/status/841630044015464450&quot;&gt;new feature in Syslog-NG&lt;/a&gt; following the &lt;a href=&quot;https://schedule2013.rmll.info/IMG/pdf/RMLL2013-xme.pdf&quot;&gt;presentation&lt;/a&gt; of &lt;a href=&quot;https://blog.rootshell.be/&quot;&gt;Xavier Mertens&lt;/a&gt; on the investigation through notably logs.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2012&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;code&lt;/strong&gt; - development of a &lt;a href=&quot;https://nmap.org/nsedoc/scripts/firewall-bypass.html&quot;&gt;Nmap script&lt;/a&gt; by Henri Doreau to verify the existence of the vulnerability presented this year by &lt;a href=&quot;https://home.regit.org/&quot;&gt;Eric Leblond&lt;/a&gt; on Checkpoint and Netfilter firewalls. Henri also presented this year in the Security track and met Eric on this occasion.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2011&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;presentation&lt;/strong&gt; - first meeting IRL between &lt;a href=&quot;https://home.regit.org/&quot;&gt;Eric Leblond&lt;/a&gt;, Netfilter and Suricata developer, and &lt;a href=&quot;http://www.r00ted.com/&quot;&gt;Paul Rascagnères&lt;/a&gt;, reverser and threat analyst, who then gave in 2014 &lt;a href=&quot;http://archive.hack.lu/2014/hacklu-joker-presentation.pdf&quot;&gt;a talk together at hack.lu conference&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;speakers&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Who came ?&lt;/h2&gt;
+&lt;p&gt;You will find below some of the speakers who came to the RMLL Security track year after year :&lt;/p&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;strong&gt;Crypto/obfuscation:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://code.google.com/archive/p/corkami/&quot;&gt;Ange Albertini&lt;/a&gt; (&lt;a href=&quot;https://2014.rmll.info/conference334?lang=en&quot;&gt;playing with crypto&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://aumasson.jp/&quot;&gt;Jean-Philippe Aumasson&lt;/a&gt; (&lt;a href=&quot;https://2015.rmll.info/open-source-crypto?lang=en&quot;&gt;open source crypto&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://blog.quarkslab.com/author/ninon-eyrolles.html&quot;&gt;Ninon Eyrolles&lt;/a&gt; (&lt;a href=&quot;https://2014.rmll.info/conference130&quot;&gt;obfuscation, know your en&lt;/a&gt;&lt;a href=&quot;https://2014.rmll.info/conference130&quot;&gt;nemy&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;http://J.C. Jones&quot;&gt;J.C. Jones&lt;/a&gt; (&lt;a href=&quot;https://sec2016.rmll.info/programme/#letsencrypt&quot;&gt;Let's Encrypt&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;http://werner.eifelkommune.de/&quot;&gt;Werner Koch&lt;/a&gt; (&lt;a href=&quot;https://schedule2013.rmll.info/programme/technique/securite/article/gnupg-etat-de-l-art&quot;&gt;GnuPG&lt;/a&gt;),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;Reverse and threat analysis:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;a href=&quot;http://tomchop.me/&quot;&gt;Thomas Chopitea&lt;/a&gt; (&lt;a href=&quot;https://2015.rmll.info/fir-reponse-sur-incidents-rapide?lang=en&quot;&gt;FIR&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;http://www.foo.be/&quot;&gt;Alexandre Dulaunoy&lt;/a&gt; (&lt;a href=&quot;https://schedule2013.rmll.info/programme/technique/securite/article/cve-search-un-logiciel-libre-der&quot;&gt;CVE search&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://blog.rootshell.be/&quot;&gt;Xavier Mertens&lt;/a&gt; (a lot of talks around &quot;your logs are my data ...&quot; ;), last one about &lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/une-journee-au-coeur-du-sans-internet-storm-center?lang=en&quot;&gt;SANS Storm center&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;span title=&quot;[présentation] première rencontre IRL entre Eric Leblond, développeur Netfilter et Suricata, et Paul Rascagnères, reverser et threat analyst, qui ont donné ensuite en 2014 une préz conjointe à hack.lu.&quot;&gt;&lt;a href=&quot;http://www.r00ted.com&quot;&gt;Paul Rascagnères&lt;/a&gt;&lt;/span&gt;&lt;/span&gt; (&lt;a href=&quot;http://schedule2012.rmll.info/Reverse-Engineering-on-open-source-platform&quot;&gt;reverse with OSS&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://twitter.com/rafi0t&quot;&gt;Raphaël Vinot&lt;/a&gt; (&lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/les-objets-misp-et-comment-nous-changeons-le-paysage-du-partage-d-informations?lang=en&quot;&gt;MISP&lt;/a&gt;),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;Network security :&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;/span&gt;&lt;a href=&quot;http://www.bortzmeyer.org/&quot;&gt;Stéphane Bortzmeyer&lt;/a&gt; (&lt;a href=&quot;https://2014.rmll.info/conference195&quot;&gt;DNSSEC&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;span title=&quot;[présentation] première rencontre IRL entre Eric Leblond, développeur Netfilter et Suricata, et Paul Rascagnères, reverser et threat analyst, qui ont donné ensuite en 2014 une préz conjointe à hack.lu.&quot;&gt;&lt;a href=&quot;https://home.regit.org/&quot;&gt;Eric Leblond&lt;/a&gt;&lt;/span&gt;&lt;/span&gt; (several &lt;a href=&quot;https://2015.rmll.info/spip.php?article1062&amp;amp;lang=en&quot;&gt;Suricata and Netfilter talks&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://www.netfilter.org/about.html&quot;&gt;Pablo Neira Ayuso&lt;/a&gt; (&lt;a href=&quot;http://2008.rmll.info/Fault-tolerant-stateful.html?lang=en&quot;&gt;contracks tool for fault tolerant netfilter FW&lt;/a&gt;),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;OS and Containers:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;span title=&quot;A l'image de l'idée de Peter Czanik d'utiliser Syslog-NG et MISP ensemble suite à une discussion avec Raphaël Vinot (développeur du projet MISP au sein du CIRCL.LU) lors de ce repas des conférenciers. &quot;&gt;&lt;a href=&quot;https://twitter.com/PCzanik&quot;&gt;Peter Czanik&lt;/a&gt; &lt;/span&gt;&lt;/span&gt;(several venues, last one about &lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/donnez-du-sens-a-vos-traces-securite-grace-a-syslog-ng?lang=en&quot;&gt;Making sens about your security logs with Syslog-NG&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;span title=&quot;[code] Paul Kocialkowski, développeur de Replicant (Android full libre) et speaker du thème embarqué, a assisté le lundi à la conférence de Lunar sur les builds reproductibles dans le thème Sécurité.&quot;&gt;&lt;a href=&quot;http://paulk.fr/&quot;&gt;Paul Kocialkowski&lt;/a&gt; (&lt;a href=&quot;https://sec2016.rmll.info/program/#verified-boot&quot;&gt;verified boot and FLOSS&lt;/a&gt;),&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://www.qubes-os.org/team/#marek-marczykowski-g%C3%B3recki&quot;&gt;Marek Marczykowski-Górecki&lt;/a&gt; (&lt;a href=&quot;https://sec2016.rmll.info/program/#qubes&quot;&gt;QubesOS&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://jpetazzo.github.io/&quot;&gt;Jérôme Petazzoni&lt;/a&gt; (&lt;a href=&quot;https://2015.rmll.info/spip.php?article1127&amp;amp;lang=en&quot;&gt;Docker security&lt;/a&gt;),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;Web and Cloud security:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;span title=&quot;[code] contribution de Clément Oudot sur LemonLDAP-NG implémentant le support de Mozilla Persona/BrowserID suite à une présentation de François Marier (Mozilla) sur Persona aux RMLL 2013     &quot;&gt;&lt;a href=&quot;https://fmarier.org/&quot;&gt;François Marier&lt;/a&gt;&lt;/span&gt;&lt;/span&gt; (&lt;a href=&quot;https://schedule2013.rmll.info/programme/technique/securite/article/mozilla-persona-dans-votre?lang=en&quot;&gt;Mozilla Persona&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;http://Clément Oudot&quot;&gt;Clément Oudot&lt;/a&gt; (&lt;a href=&quot;https://2014.rmll.info/conference136&quot;&gt;LemonLDAP::NG&lt;/a&gt;, &lt;a href=&quot;https://2015.rmll.info/spip.php?article1060&amp;amp;lang=en&quot;&gt;OpenID Connect&lt;/a&gt; ...),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://jve.linuxwall.info/&quot;&gt;Julien Véhent&lt;/a&gt; (&lt;a href=&quot;https://sec2016.rmll.info/program/#ci&quot;&gt;CloudSec @ Mozilla&lt;/a&gt;, &lt;a href=&quot;https://sec2016.rmll.info/program/#mig&quot;&gt;Mig&lt;/a&gt; ...),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;Offensive: &lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://twitter.com/acervoise&quot;&gt;Antoine Cervoise&lt;/a&gt; (&lt;a href=&quot;https://schedule2013.rmll.info/spip.php?article64&amp;amp;lang=fr&quot;&gt;CMS pentest&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;http://blog.gentilkiwi.com/a-propos&quot;&gt;Benjamin Delpy&lt;/a&gt; (&lt;a href=&quot;https://2014.rmll.info/conference80&quot;&gt;Mimikatz&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://cmaurice.fr/&quot;&gt;Clémentine Maurice&lt;/a&gt; (&lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/du-materiel-au-logiciel-exploitation-des-attaques-par-canaux-auxiliaires-depuis?lang=en&quot;&gt;side channels attacks from browsers&lt;/a&gt;),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;Hardware:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://andrea.bio/&quot;&gt;Andrea Barisani&lt;/a&gt; (&lt;a href=&quot;https://sec2016.rmll.info/program/#usb-armory&quot;&gt;USB armory&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://twitter.com/acervoise&quot;&gt;Antoine Cervoise&lt;/a&gt; (&lt;a title=&quot;More details about « WORKSHOP : Open hardware for &quot; href=&quot;https://2015.rmll.info/spip.php?article2018&amp;amp;lang=en&quot;&gt;Open hardware for &quot;physical&quot; password attacks&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://twitter.com/rafi0t&quot;&gt;Raphaël Vinot&lt;/a&gt; (&lt;a href=&quot;https://2015.rmll.info/circlean-un-nettoyeur-de-cle-usb?lang=en&quot;&gt;CIRClean&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://twitter.com/orangesunny_cz&quot;&gt;Václav Zbránek&lt;/a&gt; (&lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/le-routeur-turris-omnia-le-centre-libre-et-securise-de-votre-maison?lang=en&quot;&gt;Turris Omnia router&lt;/a&gt;),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;Privacy:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://fr.wikipedia.org/wiki/Laurent_Chemla&quot;&gt;Laurent Chemla&lt;/a&gt; (&lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/caliopen-indices-de-confidentialite-dans-la-correspondance-numerique?lang=en&quot;&gt;Caliopen and privacy metrics&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://www.sinodun.com/team/sara-dickinson/&quot;&gt;Sarah Dickinson&lt;/a&gt; (&lt;a href=&quot;https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/respect-de-la-vie-privee-et-dns?lang=en&quot;&gt;DNS &amp;amp; privacy&lt;/a&gt;),&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://mastodon.potager.org/@lunar&quot;&gt;Lunar&lt;/a&gt; (&lt;a href=&quot;https://2014.rmll.info/conference311&quot;&gt;Tor&lt;/a&gt;, &lt;a href=&quot;https://2015.rmll.info/spip.php?article1125&amp;amp;lang=en&quot;&gt;reproducible builds&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;&gt;&lt;span title=&quot;[code] contribution de Clément Oudot sur LemonLDAP-NG implémentant le support de Mozilla Persona/BrowserID suite à une présentation de François Marier (Mozilla) sur Persona aux RMLL 2013     &quot;&gt;&lt;a href=&quot;https://fmarier.org/&quot;&gt;François Marier&lt;/a&gt;&lt;/span&gt;&lt;/span&gt; (&lt;a href=&quot;https://2015.rmll.info/spip.php?article1049&amp;amp;lang=en&quot;&gt;Security and privacy on the Web&lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://twitter.com/sva&quot;&gt;Sva&lt;/a&gt; (&lt;a href=&quot;https://prog2017.rmll.info/spip.php?article146&amp;amp;lang=en&quot;&gt;PEP&lt;/a&gt;),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+ 	&lt;li&gt;&lt;strong&gt;Security at large:&lt;/strong&gt;
+&lt;ul&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://code.google.com/archive/p/corkami/&quot;&gt;Ange Albertini&lt;/a&gt; (keynote about  &lt;a href=&quot;https://sec2016.rmll.info/program/#connectingcommunities&quot;&gt;connecting communities through paper &lt;/a&gt;),&lt;/li&gt;
+ 	&lt;li&gt;&lt;a href=&quot;https://twitter.com/fredraynal&quot;&gt;Frédéric Raynal&lt;/a&gt; (keynote about &lt;a href=&quot;https://2015.rmll.info/keynote-surprise?lang=en&quot;&gt;20 years of Security&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>2017-12-27T00:00:00+01:00</pubDate>
+        <link>https://2018.pass-the-salt.org/achievements/</link>
+        <guid isPermaLink="true">https://2018.pass-the-salt.org/achievements/</guid>
+      </item>
+    
+      <item>
+        <title>Pass the SALT is officially launched!</title>
+        <description>&lt;h1 id=&quot;pass-the-salt-is-officially-launched&quot;&gt;Pass the SALT is officially launched!&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;why&quot;&gt;Why?&lt;/h3&gt;
+&lt;p&gt;After many years curating the RMLL Security Track (&lt;a href=&quot;https://prog2017.rmll.info/spip.php?page=rmll_progall&amp;amp;lang=en&amp;amp;t=2&quot;&gt;last year edition program&lt;/a&gt;), we (Mathieu Blanc, Christophe Brocas, Philippe Teuwen and joining this year, Cedric Foll) have decided to jump and create an &lt;strong&gt;autonomous and free (as in free beer) event dedicated to Free Software and Security&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;We really want to &lt;strong&gt;thank all the people met during all these years of RMLL organization&lt;/strong&gt; with a particular focus for tracks chairwomen and chairmen : we achieved plenty of good things, and when we have failed, we failed and managed to recover &lt;strong&gt;all together&lt;/strong&gt;. Thanks for that !&lt;/p&gt;
+
+&lt;p&gt;We just aspire to have a little more permanence, serenity and autonomy. And it took the form of a new conference ;-)&lt;/p&gt;
+
+&lt;h3 id=&quot;what&quot;&gt;What?&lt;/h3&gt;
+&lt;p&gt;We want to set up a moment in the year where people coming from different Security communities and Free Software (Incident Response, reverse, crypto, development, OS and network but also hacktivists, privacy oriented developers) can exchange and act together &lt;strong&gt;with a focus on cross-pollination of ideas&lt;/strong&gt; :)&lt;/p&gt;
+
+&lt;p&gt;More about this and &lt;strong&gt;previous years results&lt;/strong&gt; &lt;a href=&quot;/achievements/#results&quot;&gt;there&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;next&quot;&gt;Next?&lt;/h3&gt;
+&lt;p&gt;Please, be kind to push the information everywhere you can and submit to the coming Call for Papers :-)&lt;/p&gt;
+
+&lt;p&gt;Hope (really) to hear you soon !
+Mathieu, Christophe, Cédric and Philippe&lt;/p&gt;
+</description>
+        <pubDate>2017-12-26T00:00:00+01:00</pubDate>
+        <link>https://2018.pass-the-salt.org/pass-the-salt-is-launched/</link>
+        <guid isPermaLink="true">https://2018.pass-the-salt.org/pass-the-salt-is-launched/</guid>
+      </item>
+    
+  </channel>
+</rss>

@@ -4,10 +4,22 @@ index:
 
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://2018.pass-the-salt.org/" # the base hostname & protocol for your site
-title: "2018 Pass the SALT website"
+url: https://2018.pass-the-salt.org/ # the base hostname & protocol for your site
+title: 
+  - en : "2018 Pass the SALT website"
+  - fr : "Site web Pass the SALT 2018"
 permalink: /:slug/
 
+#traductions
+translate:
+  en:
+    home:
+      name: "About"
+      url: "/"
+  fr:
+    home:
+      name: "Accueil"
+      url: "/accueil/"
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
