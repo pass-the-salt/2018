@@ -7,6 +7,7 @@
 echo "Content-type: text/plain"
 echo
 echo "Checking for updates to 2018..."
+exec 2>&1
 cd /var/www/2018
 
 #Check if there are changes
