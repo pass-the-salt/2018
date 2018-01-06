@@ -37,4 +37,5 @@ apt-get install rsync
 
 ```
 
-Then add the CGI URL to a Github webhook and we're done.
+Then add the CGI URL to a Github webhook:
+Go to the settings of your repository, click on "webhooks & Services" and "Add webhook".
