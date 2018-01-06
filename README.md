@@ -18,3 +18,23 @@ Prefer to use `gem` and beware that older Debian packages might interfer, e.g.:
 ```
 jekyll serve --future
 ```
+
+# Server setup to update the site automatically
+
+```
+a2enmod cgi
+systemctl restart apache2
+chown -R www-data:www-data /var/www/2018
+chown -R www-data:www-data /var/www/2018-passthesalt
+apt-get install rsync
+
+# Add to /etc/apache2/sites-available/2018-passthesalt-ssl.conf
+    ScriptAlias /cgi-bin/ "/var/www/2018/cgi-bin/"
+    <Directory "/var/www/2018/cgi-bin/">
+        Options +ExecCGI
+        AddHandler cgi-script .cgi
+    </Directory>
+
+```
+
+Then add the CGI URL to a Github webhook and we're done.
