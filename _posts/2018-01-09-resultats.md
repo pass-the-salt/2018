@@ -12,12 +12,12 @@ lang: fr
 ---
 
 ## Introduction
-Après de nombreuses années passées à effectuer la curation du [thème Sécurité](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) des [RMLL](http://rmll.info/) (un événement français  généraliste multi-thèmes autour des Logiciels Libres), nous avons décidé de créer en 2018 un événement gratuit en langue anglaise dédié à la Sécurité et aux Logiciels Libres : Pass the SALT (Security And Libre Talks).
+Après de nombreuses années passées à effectuer la curation du [thème Sécurité](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) des [RMLL](http://rmll.info/) (un événement français généraliste multi-thèmes autour des Logiciels Libres), nous avons décidé de créer en 2018 un événement gratuit en langue anglaise dédié à la Sécurité et aux Logiciels Libres : Pass the SALT (Security And Libre Talks).
 
 Sur cette page, vous trouverez expliqués nos objectifs pour Pass the SALT et ce que nous avons réalisé lors de l'animation du thème Sécurité des RMLL. 
 
 ## Notre objectif
-Pour ce qui est de comprendre les objectifs et l'esprit, Peter Czanik, conférencier, nous donne des pistes de réponses au travers [du compte rendu de sa participation aux RMLL 2017.](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
+Pour ce qui est de comprendre les objectifs et l'esprit, Peter Czanik, conférencier, nous donne des pistes de réponses au travers [du compte rendu de sa participation aux RMLL 2017](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
 
 Voici comment il résume sa venue cette année : 
 
@@ -29,22 +29,22 @@ _Tout mettre en œuvre pour faciliter les rencontres et les échanges entre conf
 
 ## Comment atteindre notre objectif
 
-Ici, nous n'allons pas donné une liste détaillée des choses qu'il faut faire mais plutôt une courte liste de leviers que nous pensons importants pour nous aider à atteindre ces objectifs.
+Ici, nous n'allons pas donner une liste détaillée des choses qu'il faut faire mais plutôt une courte liste de leviers que nous pensons importants pour nous aider à atteindre ces objectifs.
 
 Tout d'abord, nous voulons fournir une conférence gratuite. C'est, selon nous, le meilleur moyen pour permettre à tous les types de publics de fréquenter notre événement. On pense immédiatement aux étudiants ou aux personnes avec peu de ressources financières. Mais cela permet aussi à des professionnels de venir sans avoir à négocier un financement avec leur entreprise.  
 
 Ensuite, tout en respectant l'ADN technique et logiciel libre du thème Sécurité, nous essayons de faire en sorte qu'un maximum de disciplines de la Sécurité soient représentées dans les sujets couverts par les conférences données.
 
-En 2017, vous avez pu suivre (ou [lire](https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=fr) / [view](https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315) revoir) des interventions sur les thématiques suivantes :
+En 2017, vous avez pu suivre ([relire](https://prog2017.rmll.info/programme/securite-entre-transparence-et-opacite/?lang=fr) / [revoir](https://rmll.ubicast.tv/channels/#securite-entre-transparence-et-opacite_77315)) des interventions sur les thématiques suivantes :
 
 * la vie privée,
 * l'investigation numérique,
-* la sécurité réseaux et systèmes,
+* la sécurité des réseaux et systèmes,
 * la cryptographie,
 * l'offensif bas niveau
 * ou la rétro ingénierie.
 
-L'idée est de permettre tant aux spectateurs qu'aux conférenciers de se confronter à des sujets ou des disciplines différentes de la Sécurité qui ne leur sont pas toujours familières.
+L'idée est de permettre tant aux spectateurs qu'aux conférenciers de se confronter à des sujets ou des disciplines différentes de la Sécurité qui ne leur sont pas toujours familiers.
 
 Cela permet ainsi à chacun de découvrir de nouveaux champs d'exploration et d'y piocher des solutions innovantes qu'il pourra réutiliser dans ses projets ou son travail.
 
@@ -52,10 +52,10 @@ Au delà des sujets différents et variés, on essaie aussi d'établir un climat
 
 Lors des conférences, autant que faire se peut, nous **poussons les spectateurs à échanger avec les conférenciers** tant en séance que lors des pauses ou plus tard au cours de l'événement.
 
-Il est aussi très important pour nous que les conférenciers se sentent à leur aise pour venir et assister à la conférence : en général, ils ne la connaissent pas, pas plus que le public, la ville ou même le pays. Nous essayons donc d'être présents en amont de leur venue en leur fournissant :
+Il est aussi très important pour nous que les conférenciers se sentent à leur aise pour venir et assister à la conférence : en général, ils ne la connaissent pas, pas plus que le public, la ville ou même le pays. Nous essayons donc d'être présents en amont de leur venue par :
 
-* mise à disposition une liste de diffusions dédiée,
-* fourniture d'informations : comment venir, se loger, présenter, nous contacter, se faire rembourser etc.
+* la mise à disposition d'une liste de diffusions dédiée,
+* la fourniture d'informations : comment venir, se loger, présenter, nous contacter, se faire rembourser etc.
 
 L'objectif est que chaque conférencier puisse arriver en confiance et débarrassé de la plupart de ses questions pratiques. L'idée étant que cette confiance lui permette de profiter de l'événement de la manière la plus ouverte et disponible possible.
 
@@ -84,7 +84,7 @@ Voici une petite liste, sûrement non exhaustive, des contributions et interacti
   * **presentation** - première rencontre IRL entre [Eric Leblond](https://home.regit.org/), développeur Netfilter et Suricata, et [Paul Rascagnères](http://www.r00ted.com/), reverser et threat analyst, qui ont donné ensuite en 2014 une [présentation conjointe à la conférence Hack.lu](http://archive.hack.lu/2014/hacklu-joker-presentation.pdf).
 
 <h2><span id="speakers">Qui est venu présenter aux RMLL ?</span></h2>
-Vous trouverez ci dessous quelques un.e.s des conférenciers.ères qui sont venus parler durant le thème Sécurité RMLL :
+Vous trouverez ci dessous quelques un.e.s des conférenciers.ères qui sont venu.e.s parler durant le thème Sécurité RMLL :
 <ul>
  	<li><strong>Crypto/obfuscation:</strong>
 <ul>

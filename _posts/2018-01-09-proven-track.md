@@ -12,12 +12,12 @@ lang: en
 ---
 
 ## Introduction
-After many years of curation of the [Security Track](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) of the [RMLL](http://rmll.info/) (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a dedicated free (as in free beer) event to Security and Free Software : Pass the SALT (Security And Libre Talks).
+After many years of curation of the [Security Track](https://prog2017.rmll.info/spip.php?page=rmll_progall&lang=en&t=2) of the [RMLL](http://rmll.info/) (a French generalist multi tracks conference about Free Software), we have decided to create in 2018 a free (as in free beer) event dedicated to Security and Free Software : Pass the SALT, Security And Libre Talks.
 
 On this page, we will expose our goal and what we have achieved during the curation of the RMLL Security track.
 
 ## Our goal
-To understand the objectives and the spirit, Peter Czanik, lecturer, gives us some answers through the [report of his participation in the RMLL 2017](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
+To understand the objectives and the spirit, Peter Czanik, lecturer, gives us some answers in the [report of his participation in the RMLL 2017](https://www.balabit.com/blog/czp-rmll-libre-software-meeting-2017/).
 
 Here is how he summarizes his coming this year:
 
@@ -29,7 +29,7 @@ _Do our best to facilitate meetings and exchanges between lecturers and the publ
 
 ## How to reach our goal
 
-Here, we are not going to give a detailed list of things we think that have to be done but rather, a short list of important (according to us) levers that helped us to reach these goals.
+Here, we are not going to give a detailed list of things we think that have to be done but rather, a short list of important (according to us) levers that helped us reaching these goals.
 
 First of all, we want to provide a free (as in free beer) event to attendees. According to us, this is the best way to enable all kind of attendees to come : we think about students or people with low income but it is also a way to see professionals coming on their own without having to negociate money with their company.
 
@@ -52,7 +52,7 @@ Beyond the different and varied subjects, we also try to establish a climate as 
 
 During talks, we do our best to encourage attendees to interact with speakers both during the session and during breaks or later during the event.
 
-It is also very important for us the speakers  feel comfortable for coming and attending : they usually don't know the event (and so attendees), the city and even sometimes the country. So we provide far before their arrival:
+It is also very important for us that the speakers feel comfortable for coming and attending : they usually don't know the event (and so its attendees), the city and even sometimes the country. So we provide far before their arrival:
 
 * a dedicated mailing list,
 * complete information : how to come, to find accommodations, to do their talk, to contact us, to be reimbursed etc.
