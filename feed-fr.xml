@@ -7,7 +7,7 @@ lang: fr
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 Pass the SALT RSS</title>
-    <description>Some news</description>
+    <description>Quelques nouvelles</description>
     <link>https://2018.pass-the-salt.org</link>
 
     {% assign posts=site.posts | where:"lang", page.lang %}

@@ -6,7 +6,7 @@
                   <ul>
                     {% assign posts=site.posts | where:"lang", page.lang %} 
                     {% for post in posts limit: 2 %}
-                       <li><a style="color:orange" href="{{ post.url }}">{{ post.title }}</a> - {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d" }} {% case m %}{% when '1' %}janvier{% when '2' %}f&eacute;vrier{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}aout{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}nvembre{% when '12' %}d&eacute;cembre{% endcase %} {{ post.date | date: "%Y" }}</li>
+                       <li><a style="color:orange" href="{{ post.url }}">{{ post.title }}</a> - {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d" }} {% case m %}{% when '1' %}janvier{% when '2' %}f&eacute;vrier{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}aout{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}d&eacute;cembre{% endcase %} {{ post.date | date: "%Y" }}</li>
                     {% endfor %}
                   </ul>
                 <br>
@@ -19,8 +19,8 @@
                         <li>31 mars 2018 : fermeture de l'appel à conf&eacute;rences</li> 
                         <li>15 avril 2018 : notification des conf&eacute;rencier.e.s</li> 
                         <li>30 avril 2018 : publication du programme</li> 
-                        <li>Mi mai 2018 : mise en ligne de l'interface de r&eacute;servation<br>(l'entr&eacute; sera gratuite mais la capacit&eacute; de la salle &eacute;tant limit&eacute;e, la r&eacute;servation est requise).</li> 
-                        <li>2-4 Juillet 2018 : la conférence :-)</li> 
+                        <li>Mi mai 2018 : mise en ligne de l'interface de r&eacute;servation<br>(l'entrée sera gratuite mais la capacit&eacute; de la salle &eacute;tant limit&eacute;e, la r&eacute;servation est requise).</li> 
+                        <li>2-4 juillet 2018 : la conférence :-)</li> 
                     </ul>
 <!--                    <a class="badge-link" href="#"><img src="/img/google-play-badge.svg" alt=""></a>
                     <a class="badge-link" href="#"><img src="/img/app-store-badge.svg" alt=""></a> -->
