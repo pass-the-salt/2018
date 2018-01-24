@@ -15,7 +15,7 @@ lang: fr
 Pass the SALT (Security And Libre Talks) est une **conférence technique sur le Logiciel Libre (ou Protocole ou Format Ouvert) et la Sécurité** où des hackers issus de nombreux secteurs de la Sécurité et du Logiciel Libre  viennent **partager leur connaissances et coopérer**.
 
 ## Qui vient parler ?
-Vous aimeriez savoir qui soumet en générant à cet Appel à Conférences ?
+Vous aimeriez savoir qui soumet en général à cet appel à soumissions ?
 
 * des contributeurs à des projets Libres Sécurité,
 * des chercheurs en Sécurité ayant trouvé des vulnérabilités dans des projets Libres,
@@ -31,7 +31,7 @@ S'IL VOUS PLAIT, FRANCHISSEZ LE PAS.
 Soumettez et nous échangerons ensemble de manière chaleureuse et respectueuse :-)
 
 ## Sujets à couvrir  ?
-Nous souhaitons absolument avoir des **soumissions en provenance des multiples champs de la Sécurité moderne**. Nous avons pour objectif de faciliter le plus possible les interactions entre les différentes communautés Sécurité et du Logiciel Libre.
+Nous souhaitons absolument avoir des **soumissions en provenance des multiples champs de la Sécurité**. Nous avons pour objectif de faciliter le plus possible les interactions entre les différentes communautés Sécurité et du Logiciel Libre.
 
 Vous pouvez voir **nos résultats déjà atteints** : [https://2018.pass-the-salt.org/resultats/#results](https://2018.pass-the-salt.org/resultats/#results)
 
@@ -45,7 +45,7 @@ Tous les thèmes habituels de la Sécurité sont bien entendu les bienvenus : DF
 
 Et bien entendu, si vous avez une idée "étrange" et/ou brillante, soumettez ! 
 
-**Seule obligation :** Parlez de Logiciel Libre ou de Standard Ouvert et de Sécurité. 
+**Seule obligation :** parler de Logiciel Libre ou de Standard Ouvert et de Sécurité. 
 
 ## Format
 Vous pouvez proposer :
