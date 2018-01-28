@@ -53,6 +53,13 @@ Vous pouvez proposer :
 * une intervention courte (20min - questions/réponses incluses),
 * ou un atelier.
 
+## Prise en charge
+Pass the SALT est un événement géré par des volontaires, libre d'accès et gratuit et avec des ressources limitées.
+
+Donc nous essayons de prendre en charge en priorité les conférenciers avec peu de ressources financières comme les étudiants ou ceux venant de pays en développement. Pour les personnes prises en charge, nous remboursons les frais de transports (train/avions), pas le logement.
+
+Dans la mesure du possible, nous demandons aux entreprises employant les conférenciers si elles peuvent prendre en charge la venue de leurs employés.
+
 ## Soumettre
 [https://2018.pass-the-salt.org/cfp/](https://2018.pass-the-salt.org/cfp/)
 

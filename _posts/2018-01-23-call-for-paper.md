@@ -46,6 +46,15 @@ You can propose:
 * a short talk (20min - questions/answers included),
 * or a workshop.
 
+## Travel Costs
+Pass the SALT is a community and volunteers handled, free access event with quite a low budget.
+
+So we try to support first the speakers with low resources such as students or coming from developing countries. We only support flight/train costs, not accommodation.
+
+We ask speakers companies (if any) for taking in charge flight and accommodations costs as much as possible.
+
+And, of course, we try to do our best for taking in charge most speakers that ask for.
+
 ## SUBMIT
 [https://2018.pass-the-salt.org/cfp/](https://2018.pass-the-salt.org/cfp/)
 
