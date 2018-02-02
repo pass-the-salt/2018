@@ -40,11 +40,24 @@ And, obviously, if you have a brilliant and/or “strange” idea, just SUBMIT !
 
 **Single requirement:** speaking about (Free Software OR Open Standard) AND Security :-) 
 
-## The Format
+## The Format and the Timeline
 You can propose:
 * a long talk (40min - questions/answers included),
 * a short talk (20min - questions/answers included),
 * or a workshop.
+
+The different dates are :
+* **Submission deadline: March 31st, 2018 at 23:59**
+* Speakers notification: April 15th, 2018
+* Program publication : at the beginning of May, 2018
+
+## Submit: HOW-TO
+Submit in 3 actions :
+* Go to [https://2018.pass-the-salt.org/cfp/](https://2018.pass-the-salt.org/cfp/) and create an account by follow following the "Create an account" link at the bottom of this page ,
+* Click on the "New Submission" link after the completion of the account creation in order to create a new talk/workshop proposal ,
+* Complete the form. The submission can stay in draft mode as long as you want, while the CFP deadlines are not reached.
+    
+**Important:** when you are ready to submit your proposal to review, check the option "Ready to review" and save the proposal.
 
 ## Travel Costs
 Pass the SALT is a community and volunteers handled, free access event with quite a low budget.
