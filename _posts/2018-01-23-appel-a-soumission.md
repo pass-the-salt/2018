@@ -47,11 +47,16 @@ Et bien entendu, si vous avez une idée "étrange" et/ou brillante, soumettez !
 
 **Seule obligation :** parler de Logiciel Libre ou de Standard Ouvert et de Sécurité. 
 
-## Format
+## Format et dates
 Vous pouvez proposer :
 * une intervention longue (40min - questions/réponses incluses),
 * une intervention courte (20min - questions/réponses incluses),
 * ou un atelier.
+
+Dates :
+* fin du CfP : 31 mars 2018 23:59
+* notification des conférenciers et conférencières : 15 avril 2018
+* publication du programme : 1er mai 2018
 
 ## Prise en charge
 Pass the SALT est un événement géré par des volontaires, libre d'accès et gratuit et avec des ressources limitées.
@@ -61,6 +66,12 @@ Donc nous essayons de prendre en charge en priorité les conférenciers avec peu
 Dans la mesure du possible, nous demandons aux entreprises employant les conférenciers si elles peuvent prendre en charge la venue de leurs employés.
 
 ## Soumettre
-[https://2018.pass-the-salt.org/cfp/](https://2018.pass-the-salt.org/cfp/)
+
+HOW-TO :
+* [https://2018.pass-the-salt.org/cfp/](https://2018.pass-the-salt.org/cfp/) ,
+* Créer un compte en bas de la page ,
+* Créer une soumission en suivant le lien "New submission" ,
+* Vous pouvez garder la soumission à l'état de brouillon jusqu'à la deadline ,
+* Quand vous êtes sûr, cliquer sur l'option "Ready to review" et soumettez votre soumission.
 
 Pour toute question : [cfp@pass-the-salt.org](mailto:cfp@pass-the-salt.org) 

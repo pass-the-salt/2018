@@ -53,7 +53,7 @@ The different dates are :
 
 ## Submit: HOW-TO
 Submit in 3 actions :
-* Go to [https://2018.pass-the-salt.org/cfp/](https://2018.pass-the-salt.org/cfp/) and create an account by follow following the "Create an account" link at the bottom of this page ,
+* Go to [https://2018.pass-the-salt.org/cfp/](https://2018.pass-the-salt.org/cfp/) and create an account by following the "Create an account" link at the bottom of the page ,
 * Click on the "New Submission" link after the completion of the account creation in order to create a new talk/workshop proposal ,
 * Complete the form. The submission can stay in draft mode as long as you want, while the CFP deadlines are not reached.
     
