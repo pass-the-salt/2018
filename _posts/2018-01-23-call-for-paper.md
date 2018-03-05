@@ -40,11 +40,13 @@ And, obviously, if you have a brilliant and/or “strange” idea, just SUBMIT !
 
 **Single requirement:** speaking about (Free Software OR Open Standard) AND Security :-) 
 
-## The Format and the Timeline
+## The Format, the Language and the Timeline
 You can propose:
 * a long talk (40min - questions/answers included),
 * a short talk (20min - questions/answers included),
 * or a workshop.
+
+Language : **all the talks will be given in English** in order to share the conference with non French speaking speakers in the more confortable manner.
 
 The different dates are :
 * **Submission deadline: March 31st, 2018 at 23:59**
