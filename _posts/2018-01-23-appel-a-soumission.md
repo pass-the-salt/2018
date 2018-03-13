@@ -47,11 +47,13 @@ Et bien entendu, si vous avez une idée "étrange" et/ou brillante, soumettez !
 
 **Seule obligation :** parler de Logiciel Libre ou de Standard Ouvert et de Sécurité. 
 
-## Format et dates
+## Format, langue et dates
 Vous pouvez proposer :
 * une intervention longue (40min - questions/réponses incluses),
 * une intervention courte (20min - questions/réponses incluses),
 * ou un atelier.
+
+Langue : **les conférences sont données en langue anglaise** afin de permettre la venue de conférenciers et conférencières non francophones la plus confortable possible.
 
 Dates :
 * fin du CfP : 31 mars 2018 23:59
