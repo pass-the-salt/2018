@@ -5,7 +5,7 @@
                 <h2 class="section-heading">Nouvelles :</h2>
                   <ul>
                     {% assign posts=site.posts | where:"lang", page.lang %} 
-                    {% for post in posts limit: 0 %}
+                    {% for post in posts limit: 4 %}
                        <li><a style="color:orange" href="{{ post.url }}">{{ post.title }}</a> - {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d" }} {% case m %}{% when '1' %}janvier{% when '2' %}f&eacute;vrier{% when '3' %}mars{% when '4' %}avril{% when '5' %}mai{% when '6' %}juin{% when '7' %}juillet{% when '8' %}aout{% when '9' %}septembre{% when '10' %}octobre{% when '11' %}novembre{% when '12' %}d&eacute;cembre{% endcase %} {{ post.date | date: "%Y" }}</li>
                     {% endfor %}
                   </ul>
@@ -17,8 +17,8 @@
                         <li>Annonce : lancement de Pass the SALT</b></li>
                         <li>23 janvier 2018 : ouverture de l'appel &agrave; conf&eacute;rences</li> 
                         <li>31 mars 2018 : fermeture de l'appel &agrave; conf&eacute;rences</li> 
-                        <li style="color:orange"><b>15 avril 2018 : notification des conf&eacute;rencier.e.s</b></li> 
-                        <li>30 avril 2018 : publication du programme</li> 
+                        <li>15 avril 2018 : notification des conf&eacute;rencier.e.s</li> 
+                        <li style="color:orange"><b>30 avril 2018 : publication du programme</b></li> 
                         <li>Mi mai 2018 : mise en ligne de l'interface de r&eacute;servation<br>(l'entr&eacute;e sera gratuite mais la capacit&eacute; de la salle &eacute;tant limit&eacute;e, la r&eacute;servation est requise).</li> 
                         <li>2-4 juillet 2018 : la conf&eacute;rence :-)</li> 
                     </ul>

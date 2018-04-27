@@ -5,7 +5,7 @@
                 <h2 class="section-heading">News:</h2>
                   <ul>
                     {% assign posts=site.posts | where:"lang", page.lang %} 
-                    {% for post in posts limit: 0 %}
+                    {% for post in posts limit: 4 %}
                        <li><a style="color:orange" href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_long_string }}</li>
                     {% endfor %}
                   </ul>
@@ -16,8 +16,8 @@
                         <li>January 8, 2018: launch of the 2018 Pass the SALT</li>
                         <li>January 23, 2018 : opening of the Call For Papers</li> 
                         <li>March 31, 2018 : closing of the Call For Paper</li> 
-                        <li style="color:orange"><b>April 15, 2018 : notification to the speakers</b></li> 
-                        <li>April 30, 2018 : publication of the program</li> 
+                        <li>April 15, 2018 : notification to the speakers</li> 
+                        <li style="color:orange"><b>April 30, 2018 : publication of the program</b></li> 
                         <li>Mid May, 2018  : opening of the booking interface<br>(entrance is free but due to the capacity of the room, booking is required).</li> 
                         <li>July 2-4, 2018  : the conference :-)</li> 
                     </ul>
