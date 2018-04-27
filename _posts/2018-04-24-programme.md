@@ -11,7 +11,7 @@ lang: fr
 
 ---
 
-Le programme de Pass the SALT (Security And Libre Talks) est désormais **en ligne**. Nous sommes très nonorés de la confiance que nous ont témoigné tous les soumissionnaires à l'appel à conférences de cette première édition. Nous souhaitons tous les remercier et nous allons tout faire pour mériter cette confiance.
+Le programme de Pass the SALT (Security And Libre Talks) est désormais **en ligne**. Nous sommes très honorés de la confiance que nous ont témoigné tous les soumissionnaires à l'appel à conférences de cette première édition. Nous souhaitons tous les remercier et nous allons tout faire pour mériter cette confiance.
 
 Et désormais, **profitez de ce programme, ateliers comme conférences** et venez partager votre savoir et collaborer.
 
