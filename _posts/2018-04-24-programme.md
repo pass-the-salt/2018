@@ -1,43 +1,43 @@
 ---
-title: "The schedule is published"
-layout: "post"
-permalink: /schedule/
+title: "Le programme est en ligne"
+layout: "post-fr"
+permalink: /programme/
 published: true 
 ref: schedule
-lang: en
+lang: fr
 ---
 
-## 2018 Pass the SALT Schedule
+## Programme de Pass the SALT 2018
 
 ---
 
-The Pass the SALT (Security And Libre Talks) schedule is now **published**. We are very proud about the trust that all the people who replied to our Call for Papers put in this first edition of PTS. We want to thank all of them and we will try to do our best to deserve this trust.
+Le programme de Pass the SALT (Security And Libre Talks) est désormais **en ligne**. Nous sommes très nonorés de la confiance que nous ont témoigné tous les soumissionnaires à l'appel à conférences de cette première édition. Nous souhaitons tous les remercier et nous allons tout faire pour mériter cette confiance.
 
-And now, **enjoy the following schedule of workshops and talks** and come to share knowledge and collaborate.
+Et désormais, **profitez de ce programme, ateliers comme conférences** et venez partager votre savoir et collaborer.
 
 <br />
-<div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Workshops Schedule</h2></div>
+<div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Programme des ateliers</h2></div>
 
-* Monday afternoon : 
+* lundi après-midi : 
   * [**Introduction to Bro Network Security Monitor**](#wsbro) <br />
   by **Eva Szilagyi** (CEO at Alzette Information Security) and **David Szili** (CTO at Alzette Information Security)
-* Tuesday morning :
+* mardi matin :
   * [**AIL-Framework: A modular framework to analyse potential information leaks**](#wsail)<br />
   by **Sami Mokaddem** (CIRCL)
-* Tuesday afternoon :
+* mardi après-midi :
   * [**URL Analysis with Faup**](#wsfaup)<br />
   by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk)
-* Wednesday morning :
+* mercredi matin :
   * [**FreeIPA: Open Source Identity Management**](#wsfreeipa)<br />
   by **Florence Renaud**  (Senior Software Engineer FreeIPA, Red Hat) and **Fraser Tweedale**  (Software Engineer, Red Hat)
-* Wednesday afternoon :
+* mercredi après-midi :
   * [**Suricata and SELKS workshop**](#wsselks)<br />
   by **Éric Leblond** (Suricata core developer, Stamus Networks)
 
 <br />
-<div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Talks Schedule</h2></div> 
+<div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Programme des conférences</h2></div> 
 
-## Monday 2nd of July, 2018 
+## lundi 2 juillet 2018 
 
 * 14:00 - 14:15: **launching talk**<br/>
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Linux Distribution Security</h3></div>
@@ -48,7 +48,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
   by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** (r2 developer)
 * 15:25 - 16-00: [**Static instrumentation based on executable file formats**](#instrumentation)<br />
   by **Romain Thomas** (LIEF developer, Quarkslab)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
 * 16:20 - 16:55: [**Machine-Code Analysis With Open-Source Decompiler with RetDec**](#retdec) <br />
   by **Jakub Kroustek** & **Peter Matula** (RetDec developers, Avast software)
 * 16:55 - 17:30: [**Are there Spectre-based malware on your Android smartphone?**](#spectre)<br />
@@ -56,7 +56,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
 * 17:30 - 17:50: [**A graphical user interface for radare2: Cutter**](#cutter)<br />
   by **Antide Petit** (Cutter developer)
 
-## Tuesday 3rd of July, 2018 
+## mardi 3 juillet 2018 
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Network Security Session</h3></div>
 
@@ -64,7 +64,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
   by **François Serman** (OVH)
 * 09:35 - 10:10: [**Performance with a S like Security: the eBPF XDP case**](#ebpfxdp) <br />
   by **Éric Leblond** (Suricata core developer, Stamus Networks)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ morning pause ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause du matin ~~~</div></div>
 * 10:30 - 11:05: [**KEYNOTE: a 10 years journey in Linux firewalling**](#netfilter) <br />
   by **Pablo Neira Ayuso** (Head of Netfilter core team)
 * 11:05 - 11:40: [**Full packet capture for the masses**](#capture) <br />
@@ -72,7 +72,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
 * 11:40 - 12:15: [**Rumps session**](#rumps)<br />
   by **you!**
 
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause méridienne ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Web Security Session</h3></div>
 
@@ -84,7 +84,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
   by **Jérémie Jourdin** and **Hugo Soszynski** (Vulture developers, aDvens)
 * 15:45 - 16:05: [**SecureDrop, for whistle-blowers**](#securedrop) <br />
   by **François Poulain** & **Loïc Darchary** (SecureDrop admin, developer)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>IAM Session</h3></div>
 * 16:25 - 17:00: [**Second factor authentication (2FA) in LemonLDAP::NG**](#lemonldap)<br />
@@ -94,7 +94,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
 * 17:35 - 17:55: [**Too bad… your password has just been stolen! Did you consider using 2FA?**](#freeipa)<br />
   by **Florence Blanc-Renaud** (Senior Software Engineer FreeIPA, Red Hat)
 
-## Wednesday 4th of July, 2018 
+## mercredi 4 juillet 2018 
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Blue Team Session</h3></div>
 
@@ -102,7 +102,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
   by **Alexandre Dulaunoy** (CIRCL) & **Andras Iklody** (CIRCL)
 * 09:35 - 10:10: [**The story of Greendale**](#greendale) <br />
   by **Thomas Chopitea** (Forensics investigator and engineer, Google)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ morning pause ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause du matin ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Secure Programming and Architecture Session</h3></div>
 * 10:30 - 11:05: [**Internals of Landlock: a new kind of Linux Security Module leveraging eBPF**](#landlock) <br />
@@ -112,7 +112,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
 * 11:40 - 12:15: [**Immutable infrastructure and zero trust networking: designing your system for resilience**](#immutable) <br />
   by **Geoffroy Couprie** (Security researcher and developer, Clever Cloud)
 
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause méridienne ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>IoT Security Session</h3></div>
 
@@ -122,7 +122,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
   by **Rayna Stamboliyska** (Risk management and crisis mitigation expert) 
 * 15:25 - 16:00: [**Expl-iot: IoT Security Testing Framework**](#expliot)<br />
   by **Aseem Jakhar** (R&D director and open source developer, Payatu software lab)<br />
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après midi ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Offensive Session</h3></div>
 * 16:20 - 16:40: [**Freedom Fighting Mode - Open Source Hacking Harness**](#harness)<br />
@@ -135,7 +135,7 @@ And now, **enjoy the following schedule of workshops and talks** and come to sha
   by **Jérémy Mousset** (Pentester)
 
 <br><br>
-<h2>Workshops description</h2>
+<h2>Description des ateliers</h2>
 <br>
 
 <a name="wsbro"></a>
@@ -256,7 +256,7 @@ This workshop is a discovery of [Suricata](https://suricata-ids.org) though [SEL
 
 
 <br><br>
-<h2>Talks description</h2>
+<h2>Description des conférences</h2>
 <br>
 
 <a name="debiansecteam"></a>
