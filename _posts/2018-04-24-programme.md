@@ -321,11 +321,12 @@ While Cutter is still under heavy development, it's becoming more and more user-
 
 <a name="traffic"></a>
 <div style="border-left: 5px solid #7b4397;  border-top: 1px solid #7b4397; color: #dc2430; ; padding-left: 10px"> <h3><strong>Traffic filtering at scale on Linux</strong></h3></div>
-BPF (for Berkeley Packet Filter) was made public in 1993 by Steven McCanne and Van Jacobson in a paper called "The BSD packet filter: a new architecture for user-level packet capture". It became a de facto standard for network packet filtering. It was ported to Linux under the name Linux Socket Filtering (LSF). BPF is an in kernel, efficient (no packets copies from kernel space to user space) but mainly, unified network packet filtering interface. In practice, it is a stack based virtual machine, statically verified by the kernel before running: no loops are permitted, memory accesses are bound checked, and a program cannot be longer than 4096 instructions.  Since then the language was extended making it more suitable for performance, especially because of the JIT capability.
+BPF programs are widely known for packet filtering in libpcap (the underlying capture library used by tcpdump and wireshark).
+One can also use them for performance analysis (perf uses BPF programs), but also for security purposes (seccomp uses BPF as well).
 
-BPF programs are widely known for packet filtering in libpcap (the underlying capture library used by tcpdump and wireshark), but one can also use them for performance analysis (perf uses BPF programs), but also for security (seccomp uses BPF as well). 
-
-In this talk, we focus on networking. We will go in depth into BPF bytecode, the available toolchains and API and follow the path of packets from the NIC to a user space application and see how eBPF can be leveraged to perform traffic filtering: from socket filtering API, to tc qdisc filtering, to finally (hopefully) explore XDP capabilities.
+In this talk, we focus on networking and dive into BPF bytecode. First, we will have a look on the available toolchains and API.
+Then we will jump into actual BPF programs and figure how eBPF can be leveraged to perform traffic filtering using several mechanism
+amongst socket filtering API, iptables and tc. Finally, we will scratch the surface of XDP capabilities.
 <br /><br />
 <strong>François Serman</strong>
 <br />
