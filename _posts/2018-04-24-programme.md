@@ -18,19 +18,19 @@ Et désormais, **profitez de ce programme, ateliers comme conférences** et vene
 <br />
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Programme des ateliers</h2></div>
 
-* lundi après-midi : 
+* lundi 2 juillet 2018, après-midi : 
   * [**Introduction to Bro Network Security Monitor**](#wsbro) <br />
   by **Eva Szilagyi** (CEO at Alzette Information Security) and **David Szili** (CTO at Alzette Information Security)
-* mardi matin :
+* mardi 3 juillet 2018, matin :
   * [**AIL-Framework: A modular framework to analyse potential information leaks**](#wsail)<br />
   by **Sami Mokaddem** (CIRCL)
-* mardi après-midi :
+* mardi 3 juillet 2018, après-midi :
   * [**URL Analysis with Faup**](#wsfaup)<br />
   by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk)
-* mercredi matin :
+* mercredi 4 juillet 2018, matin :
   * [**FreeIPA: Open Source Identity Management**](#wsfreeipa)<br />
   by **Florence Renaud**  (Senior Software Engineer FreeIPA, Red Hat) and **Fraser Tweedale**  (Software Engineer, Red Hat)
-* mercredi après-midi :
+* mercredi 4 juillet 2018, après-midi :
   * [**Suricata and SELKS workshop**](#wsselks)<br />
   by **Éric Leblond** (Suricata core developer, Stamus Networks)
 
@@ -124,7 +124,7 @@ Et désormais, **profitez de ce programme, ateliers comme conférences** et vene
   by **Aseem Jakhar** (R&D director and open source developer, Payatu software lab)<br />
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après midi ~~~</div></div>
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Offensive Session</h3></div>
+<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Red Team Session</h3></div>
 * 16:20 - 16:40: [**Freedom Fighting Mode - Open Source Hacking Harness**](#harness)<br />
   by **Ivan Kwiatkowski** (Pentester and malware analyst) <br />
 * 16:40 - 17:00: [**Open Hardware for (software) offensive security**](#openhardware)<br />
