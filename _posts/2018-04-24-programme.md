@@ -49,7 +49,7 @@ Et désormais, **profitez de ce programme, ateliers comme conférences** et vene
 * 15:25 - 16-00: [**Static instrumentation based on executable file formats**](#instrumentation)<br />
   by **Romain Thomas** (LIEF developer, Quarkslab)
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
-* 16:20 - 16:55: [**Machine-Code Analysis With Open-Source Decompiler with RetDec**](#retdec) <br />
+* 16:20 - 16:55: [**Machine-Code Analysis With Open-Source Decompiler RetDec**](#retdec) <br />
   by **Jakub Kroustek** & **Peter Matula** (RetDec developers, Avast software)
 * 16:55 - 17:30: [**Are there Spectre-based malware on your Android smartphone?**](#spectre)<br />
   by **Axelle Aprvrille** (Senior researcher, Fortinet) 
