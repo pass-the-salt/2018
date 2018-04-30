@@ -46,7 +46,7 @@ You can propose:
 * a short talk (20min - questions/answers included),
 * or a workshop.
 
-Language : **all the talks will be given in English** in order to share the conference with non French speaking speakers in the more confortable manner.
+Language : **all the talks will be given in English** in order to share the conference with non French speaking speakers in the most confortable manner.
 
 The different dates are :
 * **Submission deadline: March 31st, 2018 at 23:59**
