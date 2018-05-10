@@ -44,8 +44,8 @@ Et désormais, **profitez de ce programme, ateliers comme conférences** et vene
 * 14:15 - 14:50: [**Debian security team: behind the curtains**](#debiansecteam) <br />
   by **Yves-Alexis Perez** (Security researcher and developer, Debian security team)
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Reverse and Low-Level Session</h3></div>
-* 14:50 - 15:25: [**[Yet to be confirmed] r2frida**](#r2frida) <br />
-  by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** (r2 developer)
+* 14:50 - 15:25: [**r2frida - Better Together**](#r2frida) <br />
+  by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** aka pancake (r2 developer)
 * 15:25 - 16-00: [**Static instrumentation based on executable file formats**](#instrumentation)<br />
   by **Romain Thomas** (LIEF developer, Quarkslab)
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
@@ -268,14 +268,16 @@ This talk will presents the [Debian](https://www.debian.org/) security team: the
 <i>Yves-Alexis is a [Debian](https://www.debian.org/) developer, member of the security team. He works at [ANSSI](https://www.ssi.gouv.fr/) as head of the Hardware and Software architecture lab. As such, he's interested in platform security and the ways hardware and software interactions are relevant to security. More specifically, he's interested in how devices can influence the security of the platform as a whole.</i>
 
 <a name="r2frida"></a>
-<div style="border-left: 5px solid #7b4397;  border-top: 1px solid #7b4397; color: #dc2430; ; padding-left: 10px"> <h3><strong>[Yet to be confirmed] r2frida </strong></h3></div>
-description todo
+<div style="border-left: 5px solid #7b4397;  border-top: 1px solid #7b4397; color: #dc2430; ; padding-left: 10px"> <h3><strong>r2frida - Better together</strong></h3></div>
+In this talk we will present Frida and Radare as separate and combined tools. Have you ever wanted to enhance your static analysis with live telemetry from a running instance of the software that you're analyzing? Did you ever want a more visual interface for Frida to type commands instead of snippets of JavaScript? If any of the above, or none of it, then this talk is for you.
 <br /><br />
 <strong>Ole André V. Ravnås</strong>
 <br />
-<strong>‎Sergi Alvarez</strong>
+<i>Bio TODO.</i>
+<br>
+<strong>‎Sergi Alvarez aka pancake</strong>
 <br />
-<i>bios todo</i>
+<i>Author of radare, radare2 and several other open-source tools, currently working at NowSecure as a Mobile Security Analyst. In the past has worked as a forensic analyst, embedded firmware developer and optimizing codecs in assembly for mips, sparc and arm for GStreamer at Fluendo. Interests on reverse engineering and software development.</i>
 
 <a name="instrumentation"></a>
 <div style="border-left: 5px solid #7b4397;  border-top: 1px solid #7b4397; color: #dc2430; ; padding-left: 10px"> <h3><strong>Static instrumentation based on executable file formats</strong></h3></div>
