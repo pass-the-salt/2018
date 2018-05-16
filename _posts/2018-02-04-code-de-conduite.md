@@ -1,6 +1,6 @@
 ---
 title: "Code de conduite"
-layout: "post"
+layout: "post-fr"
 permalink: /code-de-conduite/
 published: true
 lang: fr

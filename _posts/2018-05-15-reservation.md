@@ -1,6 +1,6 @@
 ---
 title: "La billetterie est en ligne !"
-layout: "post"
+layout: "post-fr"
 permalink: /billetterie/
 published: true 
 ref: booking
