@@ -8,7 +8,7 @@
 <start>2018-07-02</start>
 <end>2018-07-04</end>
 <days>3</days>
-<timeslot_duration>00:20</timeslot_duration>
+<timeslot_duration>00:10</timeslot_duration>
 </conference>
 
 <day date="2018-07-02" end="2018-07-02T17:50:00+02:00" index="1" start="2018-07-02T14:00:00+02:00">
