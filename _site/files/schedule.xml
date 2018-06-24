@@ -449,7 +449,7 @@ Only one requirement: your talk has to be about Free Software and Security.</abs
 <date>2018-07-03T12:15:00+02:00</date>
 <start>12:15</start>
 <duration>02:00</duration>
-<room></room>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
@@ -475,7 +475,7 @@ Only one requirement: your talk has to be about Free Software and Security.</abs
 <date>2018-07-03T14:15:00+02:00</date>
 <start>14:15</start>
 <duration>00:35</duration>
-<room></room>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
@@ -512,7 +512,7 @@ This talk gives a summary of what is nowadays available in Apache, what is still
 <date>2018-07-03T14:50:00+02:00</date>
 <start>14:50</start>
 <duration>00:35</duration>
-<room></room>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
@@ -539,7 +539,7 @@ This talk gives a summary of what is nowadays available in Apache, what is still
 <date>2018-07-03T15:25:00+02:00</date>
 <start>15:25</start>
 <duration>00:20</duration>
-<room></room>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
@@ -549,8 +549,7 @@ This talk gives a summary of what is nowadays available in Apache, what is still
 <track></track>
 <type/>
 <language/>
-<abstract>
-</abstract>
+<abstract>We are the creators of the VultureProject, an Open Source HTTP reverse-proxy that ensures the security of web applications. Built on top of open-source technologies such as Apache, FreeBSD, HA-Proxy and MongoDB, Vulture’s basic features are: network firewall, TCP and HTTP proxy balancing, user authentication, web application firewall, TLS endpoint, content rewriting and many other cool things. Currently based on ModSecurity, ModDefender and custom algorithms (including machine learning), the VultureProject Team wants to push innovation even further by creating an all new, fully modular, standalone and open-source intelligent web application firewall engine. No longer based on rules, this engine will be able to understand, dissect and analyze with a lot of finesse every request and response sent; you will no longer need to spend hours of configuration, simply activate the filters you need and let our algorithms learn by themselves and protect your web applications. During the talk, we will focus on this new WAF (Web Application Firewall) engine, explaining why we need to rethink web applications security today, how we are conceiving this new solution, how we are building it and how we think it will solve some issues faced daily by our teams and by our community. </abstract>
 <description/>
 <logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
@@ -566,7 +565,7 @@ This talk gives a summary of what is nowadays available in Apache, what is still
 <date>2018-07-03T15:45:00+02:00</date>
 <start>15:45</start>
 <duration>00:20</duration>
-<room></room>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
@@ -619,7 +618,177 @@ We will describe how SecureDrop works, how sources/journalists should use it, an
 </attachments>
 </event>
 
+<event guid="23" id="23">
+<date>2018-07-03T16:25:00+02:00</date>
+<start>16:25</start>
+<stop>17:00</stop>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Second factor authentication (2FA) in LemonLDAP::NG</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>In LemonLDAP::NG 2.0, the second factor authentication is now a built-in feature and allows to rely on FIDO Alliance, TOTP, Yubikey, or any third party device through script call. I will first present how authentication works in LL::NG and how the 2FA was integrated as core functionality.</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Clément Oudot & Xavier Guimard (LemonLDAP::NG developers)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="24" id="24">
+<date>2018-07-03T14:15:00+02:00</date>
+<start>14:15</start>
+<stop></stop>
+<duration>02:30</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>No way JOSE! Lessons for authors and implementers of open standards</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>Protocol and data format specifications can be ambiguous, insecure or have other problems. Programmers and users bear the brunt of these issues. Using JOSE as a case study, I’ll discuss mistakes for standards authors to avoid, and demonstrate programming techniques for mitigating some kinds of problems.
+
+JOSE (JSON Object Signing and Encryption) is a set of IETF standards for JSON-based cryptographic objects. You might know it as JWT or JWS. It is used in OpenID Connect, ACME, and other protocols. JOSE emerged a few years ago and has been causing headaches for the presenter ever since.
+
+Using JOSE as a case study, this presentation looks at mistakes to avoid when specifying a data format or cryptographic protocol. We’ll also explore programming techniques for mitigating some kinds of problems in specifications. In particular, we will cover:
+
+    the flawed rationale for the JOSE working group
+    why JSON is a poor wire format for cryptographic objects
+    cryptography issues in the JOSE specifications
+    ambiguities and interoperability problems in the specifications
+    common vulnerabilities in JOSE libraries
+    how library authors can encourage or enforce safe use
+    advice for standards authors or working groups
+
+Each topic will culminate in one simple, actionable takeaway.
+
+Programming principles and techniques will be demonstrated using Haskell and its jose library, which is maintained by the presenter. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Fraser Tweedale (Software Engineer, Red Hat)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="25" id="25">
+<date>2018-07-03T17:35:00+02:00</date>
+<start>17:35</start>
+<stop>17:55</stop>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Too bad… your password has just been stolen! Did you consider using 2FA?</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>Authentication is a major component of security, but is often implemented as a password-based solution even though stronger and more secure alternatives exist. This talk will explain the risks associated with password-based authentication, describe the advantages of two-factor authentication, and show how open source software such as FreeIPA can help deploy an infrastructure for Smart Card authentication with X509 certificates or One-Time Password authentication. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Florence Blanc-Renaud (Senior Software Engineer FreeIPA, Red Hat)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
 </room>
+
+<room name="B001 : D'Arsonval">
+
+<event guid="26" id="26">
+<date>2018-07-02T09:00:00+02:00</date>
+<start>09:00</start>
+<stop>12:00</stop>
+<duration>03:00</duration>
+<room>B001 : D'Arsonval</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>WORKSHOP: AIL-Framework: A modular framework to analyse potential information leaks</title>
+<subtitle/>
+<track>Workshop</track>
+<type/>
+<language/>
+<abstract>
+AIL is an open source modular framework to analyse potential information leaks from unstructured data sources like pastes from Pastebin or similar services or unstructured data streams. The primary aim of the framework is to gather credentials, emails, creditcard numbers and so on in order to help security experts to detect leaks and then, react accordingly. Moreover, AIL framework is flexible and can be extended fairly easily to support other functionalities to mine sensitive information.
+
+The AIL workshop will show how the framework functions, how to use it, how you can feed the software with your own data and finally how you can contributes to help us improve AIL with new features.
+
+Requirements for the workshop:
+
+a laptop with 8GB of RAM, 2 cores and VirtualBox installed.
+
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+<person>Sami Mokaddem (CIRCL)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="27" id="27">
+<date>2018-07-02T14:15:00+02:00</date>
+<start>14:15</start>
+<stop>16:10</stop>
+<duration>02:00</duration>
+<room>B001 : D'Arsonval</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>WORKSHOP: URL Analysis with Faup</title>
+<subtitle/>
+<track>Workshop</track>
+<type/>
+<language/>
+<abstract>
+Whenever one want to run an investigation over the URLs crawled from her/his organization website, it can get tricky: millions of URLs to follow, hard to keep control on what is going on. This presentation will focus on the open source tool called FAUP for Finally An URL Parser and show how it has been used with large organizations to quickly understand new threats. Faup helps with the snapshot mechanism to classify URLs to be used for Machine Learning, it gives an automatic way of creating a white list at scale to then only spend the time focusing on the URLs you are not aware of. Faup can be used similarly to Dshield and gather intelligence over URLs and will show how collaboration over something as simple as an URL in conjunction with MISP can enhance the discovery of unknown threats. 
+
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+<person>Sébastien Tricaud (Open source and security pro and enthusiast, Splunk)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+
+</room>
+
+
 </day>
 
 </schedule>
