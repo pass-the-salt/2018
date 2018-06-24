@@ -471,6 +471,155 @@ Only one requirement: your talk has to be about Free Software and Security.</abs
 </attachments>
 </event>
 
+<event guid="18" id="18">
+<date>2018-07-03T14:15:00+02:00</date>
+<start>14:15</start>
+<duration>00:35</duration>
+<room></room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Security and Self-Driving Computers</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>We have to admit to ourselves: we do not really like to turn on automatic updates. We do not like relinquishing control. Even if we do not really know what the announced update contains, we like to have one look at it before we hit the “update” button.
+Right?
+Often, still, we do not even have an automated update option available - like on our phones. And we are nagged every other month or so that an update is available, that we should install it and if we please can hit the “ok” button now to start it.
+My mother usually calls me when her phone asks her to update. “Should I?” she asks. And I always say “Yes!” And she keeps on calling me.
+Well, that’s what mothers do anyway. But you get the point.
+This is technical nonsense. It’s all part of the Legal Blame Game: “Make sure, when things go wrong, we have an excuse.” But from a technical and security point of view, updates need to happen without user intervention, for everyone.
+For our security infrastructure, we try to avoid this and jump from “no updates” to full automation. Because expired certificates are just too embarrassing for everyone.
+Oh, and we can make it free at the same time - because automation.
+[Insert the story of Let’s Encrypt (LE) that everyone knows…]
+LE is interested to get broad support, so one of the most commonly used web server on the planet was a natural target. greenbytes proposed to MOSS (Mozilla’s Open Source Support) for a grant and got it going in 2017.
+This talk gives a summary of what is nowadays available in Apache, what is still on the road ahead, and where one may contribute (Hint: ACME fuzzing anyone?)!
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Stefan Eissing (Mod_md developer (Let’s Encrypt Apache module))</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="19" id="19">
+<date>2018-07-03T14:50:00+02:00</date>
+<start>14:50</start>
+<duration>00:35</duration>
+<room></room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Snuffleupagus: killing bug classes and virtual patching the rest</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Julien Voisin, Thibault Koechlin, Simon Magnin-Feysot (Snuffleupagus developers, NBS Systems)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="20" id="20">
+<date>2018-07-03T15:25:00+02:00</date>
+<start>15:25</start>
+<duration>00:20</duration>
+<room></room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Preview of Vulture’s upcoming web filtering engine</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Jérémie Jourdin and Hugo Soszynski (Vulture developers, aDvens)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="21" id="21">
+<date>2018-07-03T15:45:00+02:00</date>
+<start>15:45</start>
+<duration>00:20</duration>
+<room></room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>SecureDrop, for whistle-blowers</title>
+<subtitle/>SecureDrop, for whistle-blowers
+<track></track>
+<type/>
+<language/>
+<abstract>This session will introduce SecureDrop, a Free Software whistleblowing platform which received the 2016 Free Software Award from the Free Software Foundation for Social Benefits.
+
+We will describe how it addresses the critical need for a way for journalists and sources to communicate securely and anonymously. Many large news organizations including the Associated Press (AP), the Guardian, the Washington Post and the New York Times are all now running SecureDrop in their newsrooms to preserve an anonymous tip line in the presence of increasing surveillance powers by governments and corporations.
+
+We will describe how SecureDrop works, how sources/journalists should use it, and how you can contribute to the project. 
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/i
+	<person>mg/salt-512.png</logo>
+<persons>
+	<person>François Poulain (SecureDrop admin)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="5" id="5">
+<date>2018-07-03T16:05:00+02:00</date>
+<start>16:05</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>**Afternoon Break**</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
 </room>
 </day>
 
