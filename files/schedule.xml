@@ -18,6 +18,7 @@
 <event guid="1" id="1">
 <date>2018-07-02T14:00:00+02:00</date>
 <start>14:00</start>
+<stop>14:15</stop>
 <duration>00:15</duration>
 <room>Amphi MIGEON</room>
 <recording>
@@ -129,6 +130,7 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 <event guid="5" id="5">
 <date>2018-07-02T16:00:00+02:00</date>
 <start>16:00</start>
+<stop>16:20</stop>
 <duration>00:20</duration>
 <room>Amphi MIGEON</room>
 <recording>
@@ -343,6 +345,7 @@ Requirements for the workshop:
 <event guid="13" id="13">
 <date>2018-07-03T10:10:00+02:00</date>
 <start>10:10</start>
+<stop>10:30</stop>
 <duration>00:20</duration>
 <room>Amphi MIGEON</room>
 <recording>
@@ -448,6 +451,7 @@ Only one requirement: your talk has to be about Free Software and Security.</abs
 <event guid="17" id="17">
 <date>2018-07-03T12:15:00+02:00</date>
 <start>12:15</start>
+<stop>14:15</stop>
 <duration>02:00</duration>
 <room>Amphi MIGEON</room>
 <recording>
@@ -595,6 +599,7 @@ We will describe how SecureDrop works, how sources/journalists should use it, an
 <event guid="22" id="22">
 <date>2018-07-03T16:05:00+02:00</date>
 <start>16:05</start>
+<stop>16:25</stop>
 <duration>00:20</duration>
 <room>Amphi MIGEON</room>
 <recording>
@@ -621,7 +626,6 @@ We will describe how SecureDrop works, how sources/journalists should use it, an
 <event guid="23" id="23">
 <date>2018-07-03T16:25:00+02:00</date>
 <start>16:25</start>
-<stop>17:00</stop>
 <duration>00:35</duration>
 <room>Amphi MIGEON</room>
 <recording>
@@ -646,10 +650,9 @@ We will describe how SecureDrop works, how sources/journalists should use it, an
 </event>
 
 <event guid="24" id="24">
-<date>2018-07-03T14:15:00+02:00</date>
-<start>14:15</start>
-<stop></stop>
-<duration>02:30</duration>
+<date>2018-07-03T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:35</duration>
 <room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
@@ -691,7 +694,6 @@ Programming principles and techniques will be demonstrated using Haskell and its
 <event guid="25" id="25">
 <date>2018-07-03T17:35:00+02:00</date>
 <start>17:35</start>
-<stop>17:55</stop>
 <duration>00:20</duration>
 <room>Amphi MIGEON</room>
 <recording>
@@ -720,7 +722,7 @@ Programming principles and techniques will be demonstrated using Haskell and its
 <room name="B001 : D'Arsonval">
 
 <event guid="26" id="26">
-<date>2018-07-02T09:00:00+02:00</date>
+<date>2018-07-03T09:00:00+02:00</date>
 <start>09:00</start>
 <stop>12:00</stop>
 <duration>03:00</duration>
@@ -756,7 +758,7 @@ a laptop with 8GB of RAM, 2 cores and VirtualBox installed.
 </event>
 
 <event guid="27" id="27">
-<date>2018-07-02T14:15:00+02:00</date>
+<date>2018-07-03T14:15:00+02:00</date>
 <start>14:15</start>
 <stop>16:10</stop>
 <duration>02:00</duration>
@@ -785,10 +787,538 @@ Whenever one want to run an investigation over the URLs crawled from her/his org
 </attachments>
 </event>
 
+</room>
+</day>
+
+<day date="2018-07-04" end="2018-07-04T17:40:00+02:00" index="1" start="2018-07-04T09:00:00+02:00">
+
+<room name="Amphi MIGEON">
+
+<event guid="28" id="28">
+<date>2018-07-04T09:00:00+02:00</date>
+<start>09:00</start>
+<duration>09:00</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Fail frequently to avoid disaster, or how to organically build an open threat intelligence sharing standard to keep the intelligence community free and sane!</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>Designing a successful standard for threat intel sharing is a daunting task, with a host of possible pitfalls. This talk aims to describe the journey, challenges and mistakes the MISP Project made while designing the MISP standard as we know it today. There are several paths that can lead to a well-defined standard: early and prolonged requirements gathering versus starting small with rapid iterations, democratic and centralised driving forces, inclusive and exclusive ideologies. Our weapon of choice was an implementation driven, rapid iterative and real-world usage centric approach using the PMF methodology, which allowed us to experiment and fail often but also be aware of our failures before they became irrevocable disasters.
+
+The speakers will attempt to compare and contrast the various methodologies and what lessons we’ve learned. 
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Alexandre Dulaunoy, Andras Iklody (CIRCL)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="29" id="29">
+<date>2018-07-04T09:35:00+02:00</date>
+<start>09:35</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>The story of Greendale</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Thomas Chopitea (Forensics investigator and engineer, Google)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="30" id="30">
+<date>2018-07-04T10:10:00+02:00</date>
+<start>10:10</start>
+<stop>10:30</stop>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>**Morning Pause**</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="31" id="31">
+<date>2018-07-04T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Internals of Landlock: a new kind of Linux Security Module leveraging eBPF</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>In this talk we explain the constraints and choices that led to the design of Landlock, a new Linux Security Module (LSM) proposal designed to let unprivileged users enforce their own security policy. Landlock has multiple new properties that can complete those of the current major LSMs (e.g. SELinux). Leveraging the eBPF engine, Landlock can apply multiple access controls and make them evolve over time, enabling developers to manage security policy per application instead of dealing with access-control rules defined for the whole system. We answer some questions such as: What are the constraints and good practices to properly extend the Linux kernel? How Landlock uses eBPF with the LSM framework? What are the required restrictions to express a security policy, with a bytecode like eBPF, in a safe way? We also show a new demo highlighting the dynamic aspect of Landlock.
+
+This talk is intended to be a deep dive into some internals of Landlock. For a more general introduction to Landlock, you can get a look at https://landlock.io (FOSDEM 2018). </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Mickaël Salaün (Security researcher, ANSSI)
+	</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="32" id="32">
+<date>2018-07-04T:11:05+02:00</date>
+<start>11:05</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Secure programming is slow - really?</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>Performance is important in many programs: web servers, network applications, intrusion detection systems, etc. In these programs, C is a usual choice as the programming language: it is close to the hardware, and very fast. However, it is very hard to make the program secure, and this results in many vulnerabilities.
+
+This talk is about why and how use rust to achieve both performance and security by creating a “safe zone” in a C program. We first look at the good code patterns to produce efficient code, and the limits of this approach. We then go through the optimization of the code to gain more performance, and check that doing so we do not remove any important check.
+
+We can use Kerberos as an example, since it is based on ASN.1/DER, which is both difficult to manipulate, and very error-prone: all objects are Type-Length-Value (TLV), so a C parser has to manipulate recursive objects with pointers and lengths everywhere. DER parsers are regular clients for CVEs.
+
+Keywords: performance, security, rust, assembly
+
+Note: we take the parsers in Suricata as an example of such code. However, this talk is not related to Suricata, but more about the source code, the compiler and the produced code. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Pierre Chifflier (Long time FLOSS developer, ANSSI)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="33" id="33">
+<date>2018-07-04T11:40:00+02:00</date>
+<start>11:40</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Immutable infrastructure and zero trust networking: designing your system for resilience</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>At Clever Cloud, we designed our hosting platform around the principles of immutable infrastructure, to allow easier application version management and rollout. But these principles also bring great benefits for the system’s security, by shortening persistence time, reducing the capacity to pivot, and allowing fast platform wide updates. We’ll study how the system is designed to handle immutable infrastructure’s needs, and see how it reacts to common threats.</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Geoffroy Couprie (Security researcher and developer, Clever Cloud)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="34" id="34">
+<date>2018-07-04T12:15:00+02:00</date>
+<start>12:15</start>
+<stop>14:15</stop>
+<duration>02:00</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>**Mid Day Break**</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="35" id="35">
+<date>2018-07-04T14:15:00+02:00</date>
+<start>14:15</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>IoT Honeypot, new types of attacks</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>This presentation will share to the audience the status of IOT attacks from a worldwide distributed honeypot point of view. What are the different protocols, their exposure to the internet and how they are being actively exploited (Modbus, IPMI, S7, Bacnet, Telnet, SNMP etc.)? We have created a Gas Station simulation, no later than 3 hours after having the server on the internet, we started to monitor communications towards a fake S7 service (our Siemens PLC: Siemens SIMATIC S7-200). We are using free software only and this talk wants to boost the audience with the understanding of those technologies and share experience on how to write such a type of honeypot, and hopefully have more ideas to improve the security of a domain that is at least 15 years late! </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Sébastien Tricaud (Open source and security pro and enthusiast, Splunk)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="36" id="36">
+<date>2018-07-04T14:50:00+02:00</date>
+<start>14:50</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Io(M)T Security: A year in review</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>A year ago, I embarked on the funky journey to gain insights into IoT security. I am particularly interested in medical devices, that is an item that’s connected to the Internet AND can gather some sort of health data.
+
+I started off with connected sex toys—it’s fun to tear them down, then tell others about it. Beyond the fun, though, is the actual understanding of what is at stake. And, in all honesty, your fridge, your insulin pump and your pacemaker all share the same challenges: they need improved security so that we are not at risk.
+
+Since the first dildo I investigated, my analysis capabilities have evolved. This talk will address the diverse range of challenges I have had: obtaining the objects (the least complex one… but not the cheapest option, still!), producing reproducible data, collecting meaningful logs, having the companies building the IoT fix their flaws, etc. Thankfully, I will also discuss the solutions I identified, all of which involve FLOSS and (in part) open hardware.</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Rayna Stamboliyska (Risk management and crisis mitigation expert)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="37" id="37">
+<date>2018-07-04T15:25:00+02:00</date>
+<start>15:25</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Expl-iot: IoT Security Testing Framework</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>After working on IoT security testing for a few years, we realized that there is a lot of time spent on learning and setting up different tools including hardware, radio and software. As the IoT technology is new there is no standard software to test most of the components and the tools available are either not mature yet or do only specific job. With this problem at hand we envisioned a software that would allow developers and researchers to automate most of the IoT security testing steps. We began our journey with writing a flexible and extendable framework that would help the community and us in writing quick IoT test cases and exploits. The objectives of the framework are:
+
+- Easy of use
+- Extendable
+- Support for hardware, radio and IoT protocol analysis
+
+We released the beta version (in ruby) of Expl-iot in 2017. Once we started implementing hardware and radio functionality, we realized that ruby does not have much support for hardware and radio analysis which led us to deprecate it and re-write it in python to support more functionality. We are currently working on the python3 version and will release it in a month or two. The new beta release is envisioned to have support for UART(serial), ZigBee, BLE, MQTT, CoAP (next version will have support for JTAG, I2C and SPI) and few miscellaneous test cases. This talk would give attendees a first-hand view of the functionality, how to use it and how to write plugins to extend the framework. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Aseem Jakhar (Research and Development director and open source developer, Payatu software lab)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="38" id="38">
+<date>2018-07-04T16:00:00+02:00</date>
+<start>16:00</start>
+<stop>16:20</stop>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>**Afternoon Break**</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="39" id="39">
+<date>2018-07-04T16:20:00+02:00</date>
+<start>16:20</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Freedom Fighting Mode - Open Source Hacking Harness</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>The concept of “hacking harnesses” was introduced by thegrugq at HITB Kuala Lumpur 2007 (pdf). Ever since, the subject has received virtually no attention and no such tool has been released publicly. Worse, the code that had been made available at the time is no longer online and was lost by its author. The goal of harnesses is to provide a hacking environment where security professionals can focus on red teaming activities without having to fight against their terminal to perform simple actions (such as uploading or downloading files, and executing remote commands in memory). FFM is a Python framework which was developed to fill this void. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Ivan Kwiatkowski (Pentester and malware analyst) </person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="40" id="40">
+<date>2018-07-04T09:00:00+02:00</date>
+<start>16:40</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Open Hardware for (software) offensive security</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>This talk is about using the possibilities given by open hardware during penetration testing. Indeed, open hardware offers new tools for hardware and software penetration testing. The presentation will focus on software hacking.
+
+After a brief introduction of my favorite toys and a small review of hardware penetration testing from open hardware, the talk will describe different use cases (Wi-Fi, laptop/desktop/smartphone, internal penetration testing…) where open hardware offers: new possibilities, automation or discretion.
+
+As this is about (open) hardware, there are always limitations, issues, etc. This talk will also offer the opportunity to share and discuss them (as well as a few solutions and calls for contribution/help).</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Antoine Cervoise (IT security engineer, NTT Security)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="41" id="41">
+<date>2018-07-04T17:00:00+02:00</date>
+<start>17:00</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Shadow on the Wall - Risks and Flaws with Shadowsocks</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>What is one of the cornerstones of the Internet? Right! Being able to access all kinds of information, without censorship. In some countries this is no longer possible, and this is why technologies such as Tor and Shadowsocks are needed.
+
+While the main feature of Tor is the onion routing and the aim of being cryptographically secure, it can easily be blocked by a firewall.
+
+Shadowsocks simply tries to provide an undetectable tunnel to a non-censored part of the Internet.
+
+Shadowsocks provides a Socks5proxy locally, into which all traffic is routed. It encrypts traffic with a configurable symmetric algorithm and the messages have (pseudo) random lengths. The absence of any visible protocol information makes them appear totally random. The goal is stealth through restricted infrastructures.
+
+Naturally, users of such tools may be exposed to increased risks. Therefore the tools aim to be undetectable by deep packet inspection firewalls. For security and privacy they have to encrypt the traffic, use random padding, ensure integrity, and should imitate other protocols so as to look like normal encrypted traffic, e.g. such as that from an encrypted website. The server should be authenticated to ensure that the user does not communicate with a malicious endpoint.
+
+We had a look at Shadowsocks to see how it handles this task, and noticed some interesting things.
+
+This talk shows the results of our efforts to analyse ShadowSocks and identifying real vulnerabilities. There were attempts about detecting shadowsocks. We show how to brute force it, manipulate its log files. In addition, we will show several local as well as remote command execution vulnerabilities affecting shadowsocks and its tools. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Niklas Abel (Pentester and security auditor, X41)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="42" id="42">
+<date>2018-07-04T17:20:00+02:00</date>
+<start>17:20</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Glassfish from (IN)Secure admin</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>A talk presenting a way to bypass the “secure admin” feature of Glassfish to access the administration panel and deploy your own webshell. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Jérémy Mousset (Pentester)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
 
 </room>
 
+<room name="B001 : D'Arsonval">
 
+<event guid="43" id="43">
+<date>2018-07-03T09:00:00+02:00</date>
+<start>09:00</start>
+<stop>11:00</stop>
+<duration>02:00</duration>
+<room>B001 : D'Arsonval</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>WORKSHOP FreeIPA: Open Source Identity Management</title>
+<subtitle/>
+<track>Workshop</track>
+<type/>
+<language/>
+<abstract>
+In this workshop, participants will learn about FreeIPA and get hands-on experience installing and managing FreeIPA servers, clients, users and policies.
+
+FreeIPA is an integrated identity management solution providing centralised user, host and service management, authentication and authorisation in Linux/UNIX networked environments, with a focus on ease of deployment and management. It is built on top of well-known Open Source technologies and standards including 389 Directory Server, MIT Kerberos and Dogtag Certificate System.
+
+Organisations use FreeIPA to provide centralised management of identities and security policies. By avoiding identity silos, security goals can be achieved with reduced effort and improved auditability.
+
+This session will begin with a short presentation providing an overview of FreeIPA’s capabilities and architecture. The rest of the session is devoted to the practical workshop curriculum. Participants will:
+
+    Install a FreeIPA server and replica and enrol a client machine
+    Create and administer users
+    Manage host-based access control (HBAC) policies
+    Issue TLS certificates for network services
+    Configure a web server to use FreeIPA for user authentication and access control
+
+There are some elective units participants can choose from, based on their progress and interests:
+
+    OTP two-factor authentication
+    Advanced certificate management: profiles, sub-CAs and user certificates
+    OpenSSH key management
+    Sudo rule administration
+    SELinux user maps
+    …and more!
+
+Requirements:
+To get the most out of the workshop, participants should complete the preparation steps beforehand: https://github.com/freeipa/freeipa-workshop#preparation
+
+Project URL: http://www.freeipa.org/
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+<person>Florence Renaud (Senior Software Engineer FreeIPA, Red Hat) and Fraser Tweedale (Software Engineer, Red Hat)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="44" id="44">
+<date>2018-07-04T14:15:00+02:00</date>
+<start>14:15</start>
+<stop>17:15</stop>
+<duration>03:00</duration>
+<room>B001 : D'Arsonval</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>WORKSHOP Suricata and SELKS</title>
+<subtitle/>
+<track>Workshop</track>
+<type/>
+<language/>
+<abstract>This workshop is a discovery of Suricata though SELKS a distribution dedicated to this open source threat detection engine. Through hands-on exercises done in a virtual environment, the attendees will discover the network security monitoring and intrusion detection capabilities of Suricata. They will also write their first signatures to see how it is possible to use Suricata to detect specific threats.
+
+Requirements: a laptop with 8GB of RAM. 
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+<person>Éric Leblond (Suricata core developer, Stamus Networks)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+</room>
 </day>
+
 
 </schedule>
