@@ -170,14 +170,8 @@ Requirements for the workshop:
 <description/>
 <logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
-<person>
-	Eva Szilagyi
-Eva is managing partner and CEO of Alzette Information Security, a consulting company based in Luxembourg. She has more than 8 years of professional experience in penetration testing, security source code review, digital forensics, IT auditing, telecommunication networks and security research. Previously, she was working for companies like Vodafone Hungary, Ernst & Young Hungary and Deloitte Luxembourg. Eva has master’s degrees in electrical engineering and in networks and telecommunication. She holds several IT security certifications such as GSEC, GICSP, GSSP-JAVA, GWAPT, GMOB, eWPT and eJPT. Eva is member of the organizer team of BSidesLuxembourg.
-</person>
-<person>
-David Szili
-David is managing partner and CTO of Alzette Information Security, a consulting company based in Luxembourg. He has more than 8 years of professional experience in penetration testing, red teaming, vulnerability assessment, vulnerability management, security monitoring, security architecture design, incident response, digital forensics and software development. Previously, he was working for companies like POST Telecom PSF Luxembourg, Dimension Data Luxembourg, Deloitte Hungary, and Balabit. David has master’s degrees in computer engineering and in networks and telecommunication and a bachelor’s degree in electrical engineering. He holds several IT security certifications such as GSEC, GCED, GCIA, GCIH, GMON, GNFA, GMOB, OSCP, OSWP and CEH. David speaks on a regular basis at international conferences like Hack.lu, BruCON, Hacktivity, Nuit du Hack, BSidesBUD, BSidesLjubljana and he is member of the organizer team of BSidesLuxembourg. He occasionally blogs about information security at jumpespjump.blogspot.com.
-</person>
+<person>Eva Szilagyi - CEO Alzette Information Security</person>
+<person>David Szili - CTO Alzette Information Security</person>
 </persons>
 <links>
 </links>
@@ -189,30 +183,3 @@ David is managing partner and CTO of Alzette Information Security, a consulting 
 
 </day>
 </schedule>
-
-
-<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
-<date>2018-07-02T14:15:00+02:00</date>
-<start>14:15</start>
-<duration>02:30</duration>
-<room></room>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title></title>
-<subtitle/>
-<track></track>
-<type/>
-<language/>
-<abstract>
-</abstract>
-<description/>
-<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
