@@ -24,7 +24,7 @@
 <license>Creative Commons by SA</license>
 <optout>false</optout>
 </recording>
-<title>Launching talk</title>
+<title>**Launching talk**</title>
 <subtitle/>
 <track>Misc</track>
 <type/>
@@ -135,7 +135,7 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 <license>Creative Commons by SA</license>
 <optout>false</optout>
 </recording>
-<title>Afternoon Break</title>
+<title>**Afternoon Break**</title>
 <subtitle/>
 <track></track>
 <type/>
@@ -340,16 +340,120 @@ Requirements for the workshop:
 </attachments>
 </event>
 
-<event guid="" id="">
+<event guid="13" id="13">
 <date>2018-07-03T10:10:00+02:00</date>
 <start>10:10</start>
 <duration>00:20</duration>
-<room></room>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
 </recording>
 <title>**Morning Pause**</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="14" id="14">
+<date>2018-07-03T10:30:00+02:00</date>
+<start>10:30</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>KEYNOTE: a 10 years journey in Linux firewalling</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>Just come :) </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Pablo Neira Ayuso (Head of Netfilter core team)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="15" id="15">
+<date>2018-07-03T11:05:00+02:00</date>
+<start>11:05</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Full packet capture for the masses</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>When you are facing a security incident, your investigations will depend on the data that you can analyze. If logs are often the first source of evidence, sometimes, it could be interesting to have access to a full packet capture to “dive deeper” in the traffic generated from/to the compromised network or host. Full packet capture (FPC) is like your insurance, you implement it and you never know if you’ll have to use it… Until something weird happened! In my presentation, I’ll present a simple way to implement FPC for small organizations and based on open source solutions (Moloch, Docker) and how to interconnect them. This talk is an extension of my SANS ISC diary (The easy way to analyze huge amounts of PCAP data) with more practical details. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Xavier Mertens (Security consultant, ISC SANS handler)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="16" id="16">
+<date>2018-07-03T11:40:00+02:00</date>
+<start>11:40</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Rumps Session</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>This is a session of lightning talks (between 3-5min).You will be able to register to give a lightning talk a few days before the event until Monday 2nd July evening.
+Only one requirement: your talk has to be about Free Software and Security.</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>You!</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="17" id="17">
+<date>2018-07-03T12:15:00+02:00</date>
+<start>12:15</start>
+<duration>02:00</duration>
+<room></room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>**Mid Day Break**</title>
 <subtitle/>
 <track></track>
 <type/>
