@@ -583,8 +583,7 @@ We will describe how it addresses the critical need for a way for journalists an
 We will describe how SecureDrop works, how sources/journalists should use it, and how you can contribute to the project. 
 </abstract>
 <description/>
-<logo>https://2018.pass-the-salt.org/i
-	<person>mg/salt-512.png</logo>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
 	<person>François Poulain (SecureDrop admin)</person>
 </persons>
@@ -594,7 +593,7 @@ We will describe how SecureDrop works, how sources/journalists should use it, an
 </attachments>
 </event>
 
-<event guid="5" id="5">
+<event guid="22" id="22">
 <date>2018-07-03T16:05:00+02:00</date>
 <start>16:05</start>
 <duration>00:20</duration>
