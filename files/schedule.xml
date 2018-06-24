@@ -114,8 +114,7 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 <track></track>
 <type/>
 <language/>
-<abstract>
-</abstract>
+<abstract>Many instrumentation techniques are based on modifying code or system environment of the target. It can be suitable for scenarios but it could not work under certain circumstance (integrity checking, non-rooted environment…) In this talk we propose similar techniques by only modifying the executable format. This enables to be architecture independent, injection and hooking does not require privileged environment. </abstract>
 <description/>
 <logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
@@ -127,11 +126,116 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 </attachments>
 </event>
 
+<event guid="5" id="5">
+<date>2018-07-02T16:00:00+02:00</date>
+<start>16:00</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Afternoon Break</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="6" id="6">
+<date>2018-07-02T16:20:00+02:00</date>
+<start>16:20</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Machine-Code Analysis With Open-Source Decompiler RetDec</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>When we need to deeply analyze a binary application (e.g. for malware dissection, vulnerability research, code optimization), static code analysis is what we use most of the time. However, static analysis of machine-code is usually not an easy task. It is actually a tough one in case of malware analysis. Luckily, existing machine-code decompilers help with this task significantly. On the other hand, the most well-known decompilers are either proprietary, cannot be easily modified for a given task, or both. In this talk, we would like to depict our machine-code decompiler called RetDec (Retargetable Decompiler) that we are developing in Avast since 2011 and which we have open-sourced a few months ago under the MIT license. Its primary goal is, of course, decompilation of binary (malicious) applications, but its components can also be used for other tasks, such as disassembly, extraction of basic blocks, or initial assessment of malware samples.</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Jakub Kroustek  (RetDec creator, Avast software)</person>
+    <person>Peter Matula (RetDec developer, Avast software)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="7" id="7">
+<date>2018-07-02T16:55:00+02:00</date>
+<start>16:55</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Are there Spectre-based malware on your Android smartphone?</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>The Spectre attack has had massive coverage, and I assume (nearly) everybody at Pass The Salt will have heard of it. This talk is not yet another explanation of Spectre, nor generic advice of what to do. Rather, this talk is oriented on implementation issues and answering 2 simple questions (which haven’t been addressed yet to my knowledge): 1. Is your Android smartphone vulnerable to Spectre or not? ARM has published a security advisory with a list of vulnerable processors. We’ll see that the answer isn’t as simple as checking the list. . . 2. How can we detect malware using Spectre, and are there any? The media have been quiet about that. Working for an AV company, that’s perhaps something I can contribute to. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Axelle Apvrille (Senior researcher, Fortinet)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="8" id="8">
+<date>2018-07-02T17:30:00+02:00</date>
+<start>17:30</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>A graphical user interface for radare2: Cutter</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>Radare2 is a free and open-source reverse engineering framework, which is becoming more and more popular. One of its main criticisms is that it is only usable within a terminal (CLI), and that the commands are not intuitive, making the learning curve steep. The Cutter project was created to provide an easy-to-use, but still powerful, interface to radare2 for new users. This is done with a native graphical user interface made in Qt and C++. The goal of the talk is to present radare2 history, along with the common complaints from users, and how we try to overcome those with Cutter. I’ll be presenting the features that are already implemented, the way we allow our users to script the interface, and obviously the missing features that we will implement in a near future. While Cutter is still under heavy development, it’s becoming more and more user-friendly and easy to use. It is becoming a great alternative to other reverse engineering tools. </abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Antide Petit (Cutter developer)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
 </room>
 
 <room name="B001 : D'Arsonval">
 
-<event guid="8" id="8">
+<event guid="10" id="10">
 <date>2018-07-02T14:15:00+02:00</date>
 <start>14:15</start>
 <duration>02:30</duration>
