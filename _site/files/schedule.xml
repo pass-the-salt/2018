@@ -405,7 +405,8 @@ Requirements for the workshop:
 <subtitle/>
 <track></track>
 <type/>
-<language/>When you are facing a security incident, your investigations will depend on the data that you can analyze. If logs are often the first source of evidence, sometimes, it could be interesting to have access to a full packet capture to “dive deeper” in the traffic generated from/to the compromised network or host. Full packet capture (FPC) is like your insurance, you implement it and you never know if you’ll have to use it… Until something weird happened! In my presentation, I’ll present a simple way to implement FPC for small organizations and based on open source solutions (Moloch, Docker) and how to interconnect them. This talk is an extension of my SANS ISC diary (The easy way to analyze huge amounts of PCAP data) with more practical details. </abstract>
+<language/>
+<abstract>When you are facing a security incident, your investigations will depend on the data that you can analyze. If logs are often the first source of evidence, sometimes, it could be interesting to have access to a full packet capture to “dive deeper” in the traffic generated from/to the compromised network or host. Full packet capture (FPC) is like your insurance, you implement it and you never know if you’ll have to use it… Until something weird happened! In my presentation, I’ll present a simple way to implement FPC for small organizations and based on open source solutions (Moloch, Docker) and how to interconnect them. This talk is an extension of my SANS ISC diary (The easy way to analyze huge amounts of PCAP data) with more practical details. </abstract>
 <description/>
 <logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
