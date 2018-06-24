@@ -15,7 +15,7 @@
 
 <room name="Amphi MIGEON">
 
-<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<event guid="1" id="1">
 <date>2018-07-02T14:00:00+02:00</date>
 <start>14:00</start>
 <duration>00:15</duration>
@@ -42,7 +42,7 @@
 </attachments>
 </event>
 
-<event guid="fffff16-e593-0109-2016-ffff-ffffffffffff" id="593">
+<event guid="2" id="2">
 <date>2018-07-02T14:15:00+02:00</date>
 <start>14:15</start>
 <duration>00:35</duration>
@@ -63,10 +63,7 @@
 </description>
 <logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
-<person>
-	Yves-Alexis Perez
-Yves-Alexis is a Debian developer, member of the security team. He works at ANSSI as head of the Hardware and Software architecture lab. As such, he’s interested in platform security and the ways hardware and software interactions are relevant to security. More specifically, he’s interested in how devices can influence the security of the platform as a whole.
-</person>
+<person>Yves-Alexis Perez - Debian developer, member of the security team. He works at ANSSI as head of the Hardware and Software architecture lab.</person>
 </persons>
 <links>
 </links>
@@ -74,7 +71,7 @@ Yves-Alexis is a Debian developer, member of the security team. He works at ANSS
 </attachments>
 </event>
 
-<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<event guid="3" id="3">
 <date>2018-07-02T14:15:00+02:00</date>
 <start>14:50</start>
 <duration>00:35</duration>
@@ -94,8 +91,8 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 <description/>
 <logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
-<person>Ole André V. Ravnås (Frida developer)</person>
-‎<person>Sergi Alvarez aka pancake (r2 developer)</person>
+<person>Ole André V. Ravnås - Frida developer</person>
+‎<person>Sergi Alvarez aka pancake - r2 developer</person>
 </persons>
 <links>
 </links>
@@ -103,7 +100,7 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 </attachments>
 </event>
 
-<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<event guid="4" id="4">
 <date>2018-07-02T15:25:00+02:00</date>
 <start>15:25</start>
 <duration>00:35</duration>
@@ -134,7 +131,7 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 
 <room name="B001 : D'Arsonval">
 
-<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<event guid="8" id="8">
 <date>2018-07-02T14:15:00+02:00</date>
 <start>14:15</start>
 <duration>02:30</duration>
