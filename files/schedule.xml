@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schedule>
 <version>2.0</version>
+
 <conference>
 <acronym>Pass the SALT</acronym>
 <title>Pass the SALT 2018</title>
@@ -9,8 +10,11 @@
 <days>3</days>
 <timeslot_duration>00:20</timeslot_duration>
 </conference>
+
 <day date="2018-07-02" end="2018-07-02T17:50:00+02:00" index="1" start="2018-07-02T14:00:00+02:00">
+
 <room name="Amphi MIGEON">
+
 <event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
 <date>2018-07-02T14:00:00+02:00</date>
 <start>14:00</start>
@@ -29,13 +33,15 @@
 </abstract>
 <description/>
 <logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>The organization team
+<persons>
+	<person>The organization team</person>
 </persons>
 <links>
 </links>
 <attachments>
 </attachments>
 </event>
+
 <event guid="fffff16-e593-0109-2016-ffff-ffffffffffff" id="593">
 <date>2018-07-02T14:15:00+02:00</date>
 <start>14:15</start>
@@ -55,1796 +61,158 @@
 </abstract>
 <description>
 </description>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
-Yves-Alexis Perez
+<person>
+	Yves-Alexis Perez
 Yves-Alexis is a Debian developer, member of the security team. He works at ANSSI as head of the Hardware and Software architecture lab. As such, he’s interested in platform security and the ways hardware and software interactions are relevant to security. More specifically, he’s interested in how devices can influence the security of the platform as a whole.
+</person>
 </persons>
 <links>
 </links>
 <attachments>
 </attachments>
 </event>
-<event guid="fffff16-e598-0109-2016-ffff-ffffffffffff" id="598">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>A03</room>
-<slug>a03_-_2016-09-01_12:00_-_lunch_-_598</slug>
+
+<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<date>2018-07-02T14:15:00+02:00</date>
+<start>14:50</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
 </recording>
-<title>Lunch</title>
+<title>r2frida - Better Together</title>
 <subtitle/>
-<track>Break</track>
+<track>Reverse and low level</track>
 <type/>
 <language/>
-<abstract/>
+<abstract>
+In this talk we will present Frida and Radare as separate and combined tools. Have you ever wanted to enhance your static analysis with live telemetry from a running instance of the software that you’re analyzing? Did you ever want a more visual interface for Frida to type commands instead of snippets of JavaScript? If any of the above, or none of it, then this talk is for you. 
+</abstract>
 <description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
+<person>Ole André V. Ravnås (Frida developer)</person>
+‎<person>Sergi Alvarez aka pancake (r2 developer)</person>
 </persons>
 <links>
 </links>
 <attachments>
 </attachments>
 </event>
-<event guid="fffff16-e595-0109-2016-ffff-ffffffffffff" id="595">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>A03</room>
-<slug>a03_-_2016-09-01_13:00_-_debugging_and_profiling_qt_applications_with_milian_wolff_-_595</slug>
+
+<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<date>2018-07-02T15:25:00+02:00</date>
+<start>15:25</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
 </recording>
-<title>Debugging and Profiling Qt applications, with Milian Wolff</title>
+<title>Static instrumentation based on executable file formats</title>
 <subtitle/>
-<track>Misc</track>
+<track></track>
 <type/>
 <language/>
-<abstract/>
+<abstract>
+</abstract>
 <description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
+<person>Romain Thomas (LIEF developer, Quarkslab)</person>
 </persons>
 <links>
 </links>
 <attachments>
 </attachments>
 </event>
-<event guid="fffff16-e599-0109-2016-ffff-ffffffffffff" id="599">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>A03</room>
-<slug>a03_-_2016-09-01_14:30_-_coffee_break_-_599</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e596-0109-2016-ffff-ffffffffffff" id="596">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>A03</room>
-<slug>a03_-_2016-09-01_14:45_-_debugging_and_profiling_qt_applications_with_milian_wolff_-_596</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Debugging and Profiling Qt applications, with Milian Wolff</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e600-0109-2016-ffff-ffffffffffff" id="600">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>A03</room>
-<slug>a03_-_2016-09-01_16:15_-_coffee_break_-_600</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e597-0109-2016-ffff-ffffffffffff" id="597">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>A03</room>
-<slug>a03_-_2016-09-01_16:30_-_debugging_and_profiling_qt_applications_with_milian_wolff_-_597</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Debugging and Profiling Qt applications, with Milian Wolff</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e601-0109-2016-ffff-ffffffffffff" id="601">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>A03</room>
-<slug>a03_-_2016-09-01_18:00_-_evening_event_-_601</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
+
 </room>
-<room name="A04">
-<event guid="fffff16-e603-0109-2016-ffff-ffffffffffff" id="603">
-<date>2016-09-01T09:00:00+02:00</date>
-<start>09:00</start>
-<duration>01:00</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_09:00_-_registration_and_coffee_-_603</slug>
+
+<room name="B001 : D'Arsonval">
+
+<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<date>2018-07-02T14:15:00+02:00</date>
+<start>14:15</start>
+<duration>02:30</duration>
+<room>B001 : D'Arsonval</room>
 <recording>
 <license>Creative Commons by SA</license>
 <optout>false</optout>
 </recording>
-<title>Registration and Coffee</title>
+<title>WORKSHOP: Introduction to Bro Network Security Monitor</title>
 <subtitle/>
-<track>Misc</track>
+<track>Workshop</track>
 <type/>
 <language/>
-<abstract/>
+<abstract>
+Bro is an open-source Network Security Monitor (NSM) and analytics platform. Even though it has been around since the mid 90’s, its main user base was primarily universities, research labs and supercomputing centers. In the past few years however, more and more security professionals in the industry turned their attention to this powerful tool, as it runs on commodity hardware, thus providing a low-cost alternative to commercial solutions.
+
+At its core, Bro inspects traffic and creates an extensive set of well-structured, tab-separated log files that record a network’s activity. Nonetheless, Bro is a lot more than just a traditional signature-based IDS. While it supports such standard functionality as well, Bro’s scripting language allows security analysts to perform arbitrary analysis tasks such as extracting files from sessions, detecting malware by interfacing with an external source, detecting brute-forcing, etc. It comes with a large set of pre-built standard libraries, just like Python.
+
+During this two-hour workshop, we will learn about Bro’s capabilities and cover the following topics:
+
+    Introduction to Bro
+    Bro architecture
+    Bro events and logs
+    Bro signatures
+    Bro scripting
+    Bro and ELK
+
+Requirements for the workshop:
+
+    A laptop with at least 8 GB of RAM and more than 30 GB of free disk space
+    VMWare Workstation or VMWare Player installed
+</abstract>
 <description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
 <persons>
+<person>
+	Eva Szilagyi
+Eva is managing partner and CEO of Alzette Information Security, a consulting company based in Luxembourg. She has more than 8 years of professional experience in penetration testing, security source code review, digital forensics, IT auditing, telecommunication networks and security research. Previously, she was working for companies like Vodafone Hungary, Ernst & Young Hungary and Deloitte Luxembourg. Eva has master’s degrees in electrical engineering and in networks and telecommunication. She holds several IT security certifications such as GSEC, GICSP, GSSP-JAVA, GWAPT, GMOB, eWPT and eJPT. Eva is member of the organizer team of BSidesLuxembourg.
+</person>
+<person>
+David Szili
+David is managing partner and CTO of Alzette Information Security, a consulting company based in Luxembourg. He has more than 8 years of professional experience in penetration testing, red teaming, vulnerability assessment, vulnerability management, security monitoring, security architecture design, incident response, digital forensics and software development. Previously, he was working for companies like POST Telecom PSF Luxembourg, Dimension Data Luxembourg, Deloitte Hungary, and Balabit. David has master’s degrees in computer engineering and in networks and telecommunication and a bachelor’s degree in electrical engineering. He holds several IT security certifications such as GSEC, GCED, GCIA, GCIH, GMON, GNFA, GMOB, OSCP, OSWP and CEH. David speaks on a regular basis at international conferences like Hack.lu, BruCON, Hacktivity, Nuit du Hack, BSidesBUD, BSidesLjubljana and he is member of the organizer team of BSidesLuxembourg. He occasionally blogs about information security at jumpespjump.blogspot.com.
+</person>
 </persons>
 <links>
 </links>
 <attachments>
 </attachments>
 </event>
-<event guid="fffff16-e602-0109-2016-ffff-ffffffffffff" id="602">
-<date>2016-09-01T10:00:00+02:00</date>
-<start>10:00</start>
-<duration>02:00</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_10:00_-_what_s_new_in_c_11_c_14_with_thomas_mcguire_-_602</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>What's new in C++11/C++14, with Thomas McGuire</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e607-0109-2016-ffff-ffffffffffff" id="607">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_12:00_-_lunch_-_607</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Lunch</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e604-0109-2016-ffff-ffffffffffff" id="604">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_13:00_-_what_s_new_in_c_11_c_14_with_thomas_mcguire_-_604</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>What's new in C++11/C++14, with Thomas McGuire</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e608-0109-2016-ffff-ffffffffffff" id="608">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_14:30_-_coffee_break_-_608</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e605-0109-2016-ffff-ffffffffffff" id="605">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_14:45_-_what_s_new_in_c_11_c_14_with_thomas_mcguire_-_605</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>What's new in C++11/C++14, with Thomas McGuire</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e609-0109-2016-ffff-ffffffffffff" id="609">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_16:15_-_coffee_break_-_609</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e606-0109-2016-ffff-ffffffffffff" id="606">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_16:30_-_what_s_new_in_c_11_c_14_with_thomas_mcguire_-_606</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>What's new in C++11/C++14, with Thomas McGuire</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e610-0109-2016-ffff-ffffffffffff" id="610">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>A04</room>
-<slug>a04_-_2016-09-01_18:00_-_evening_event_-_610</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
+
 </room>
-<room name="A08">
-<event guid="fffff16-e630-0109-2016-ffff-ffffffffffff" id="630">
-<date>2016-09-01T09:00:00+02:00</date>
-<start>09:00</start>
-<duration>01:00</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_09:00_-_registration_and_coffee_-_630</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Registration and Coffee</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e629-0109-2016-ffff-ffffffffffff" id="629">
-<date>2016-09-01T10:00:00+02:00</date>
-<start>10:00</start>
-<duration>02:00</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_10:00_-_introduction_to_qt_3d_with_dr_sean_harmer_-_629</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Qt 3D, with Dr Sean Harmer</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e634-0109-2016-ffff-ffffffffffff" id="634">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_12:00_-_lunch_-_634</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Lunch</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e631-0109-2016-ffff-ffffffffffff" id="631">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_13:00_-_introduction_to_qt_3d_with_dr_sean_harmer_-_631</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Qt 3D, with Dr Sean Harmer</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e635-0109-2016-ffff-ffffffffffff" id="635">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_14:30_-_coffee_break_-_635</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e632-0109-2016-ffff-ffffffffffff" id="632">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_14:45_-_introduction_to_qt_3d_with_dr_sean_harmer_-_632</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Qt 3D, with Dr Sean Harmer</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e636-0109-2016-ffff-ffffffffffff" id="636">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_16:15_-_coffee_break_-_636</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e633-0109-2016-ffff-ffffffffffff" id="633">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_16:30_-_introduction_to_qt_3d_with_dr_sean_harmer_-_633</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Qt 3D, with Dr Sean Harmer</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e637-0109-2016-ffff-ffffffffffff" id="637">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>A08</room>
-<slug>a08_-_2016-09-01_18:00_-_evening_event_-_637</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-</room>
-<room name="A06">
-<event guid="fffff16-e621-0109-2016-ffff-ffffffffffff" id="621">
-<date>2016-09-01T09:00:00+02:00</date>
-<start>09:00</start>
-<duration>01:00</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_09:00_-_registration_and_coffee_-_621</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Registration and Coffee</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e620-0109-2016-ffff-ffffffffffff" id="620">
-<date>2016-09-01T10:00:00+02:00</date>
-<start>10:00</start>
-<duration>02:00</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_10:00_-_introduction_to_modern_opengl_with_qt_with_giuseppe_d_angelo_-_620</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Modern OpenGL with Qt, with Giuseppe D'Angelo</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e625-0109-2016-ffff-ffffffffffff" id="625">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_12:00_-_lunch_-_625</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Lunch</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e622-0109-2016-ffff-ffffffffffff" id="622">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_13:00_-_introduction_to_modern_opengl_with_qt_with_giuseppe_d_angelo_-_622</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Modern OpenGL with Qt, with Giuseppe D'Angelo</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e626-0109-2016-ffff-ffffffffffff" id="626">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_14:30_-_coffee_break_-_626</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e623-0109-2016-ffff-ffffffffffff" id="623">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_14:45_-_introduction_to_modern_opengl_with_qt_with_giuseppe_d_angelo_-_623</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Modern OpenGL with Qt, with Giuseppe D'Angelo</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e627-0109-2016-ffff-ffffffffffff" id="627">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_16:15_-_coffee_break_-_627</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e624-0109-2016-ffff-ffffffffffff" id="624">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_16:30_-_introduction_to_modern_opengl_with_qt_with_giuseppe_d_angelo_-_624</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Modern OpenGL with Qt, with Giuseppe D'Angelo</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e628-0109-2016-ffff-ffffffffffff" id="628">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>A06</room>
-<slug>a06_-_2016-09-01_18:00_-_evening_event_-_628</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-</room>
-<room name="A05">
-<event guid="fffff16-e612-0109-2016-ffff-ffffffffffff" id="612">
-<date>2016-09-01T09:00:00+02:00</date>
-<start>09:00</start>
-<duration>01:00</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_09:00_-_registration_and_coffee_-_612</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Registration and Coffee</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e611-0109-2016-ffff-ffffffffffff" id="611">
-<date>2016-09-01T10:00:00+02:00</date>
-<start>10:00</start>
-<duration>02:00</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_10:00_-_basic_and_modern_cmake_with_andreas_hartmetz_-_611</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Basic and Modern CMake, with Andreas Hartmetz</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e616-0109-2016-ffff-ffffffffffff" id="616">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_12:00_-_lunch_-_616</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Lunch</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e613-0109-2016-ffff-ffffffffffff" id="613">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_13:00_-_basic_and_modern_cmake_with_andreas_hartmetz_-_613</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Basic and Modern CMake, with Andreas Hartmetz</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e617-0109-2016-ffff-ffffffffffff" id="617">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_14:30_-_coffee_break_-_617</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e614-0109-2016-ffff-ffffffffffff" id="614">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_14:45_-_basic_and_modern_cmake_with_andreas_hartmetz_-_614</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Basic and Modern CMake, with Andreas Hartmetz</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e618-0109-2016-ffff-ffffffffffff" id="618">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_16:15_-_coffee_break_-_618</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e615-0109-2016-ffff-ffffffffffff" id="615">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_16:30_-_basic_and_modern_cmake_with_andreas_hartmetz_-_615</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Basic and Modern CMake, with Andreas Hartmetz</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e619-0109-2016-ffff-ffffffffffff" id="619">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>A05</room>
-<slug>a05_-_2016-09-01_18:00_-_evening_event_-_619</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-</room>
-<room name="B03">
-<event guid="fffff16-e666-0109-2016-ffff-ffffffffffff" id="666">
-<date>2016-09-01T09:00:00+02:00</date>
-<start>09:00</start>
-<duration>01:00</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_09:00_-_registration_and_coffee_-_666</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Registration and Coffee</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e665-0109-2016-ffff-ffffffffffff" id="665">
-<date>2016-09-01T10:00:00+02:00</date>
-<start>10:00</start>
-<duration>02:00</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_10:00_-_introduction_to_qml_also_known_as_qt_quick_with_kevin_funk_and_jesper_pedersen_-_665</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to QML, also known as Qt Quick, with Kevin Funk and
-Jesper Pedersen</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e670-0109-2016-ffff-ffffffffffff" id="670">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_12:00_-_lunch_-_670</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Lunch</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e667-0109-2016-ffff-ffffffffffff" id="667">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_13:00_-_introduction_to_qml_also_known_as_qt_quick_with_kevin_funk_and_jesper_pedersen_-_667</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to QML, also known as Qt Quick, with Kevin Funk and
-Jesper Pedersen</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e671-0109-2016-ffff-ffffffffffff" id="671">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_14:30_-_coffee_break_-_671</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e668-0109-2016-ffff-ffffffffffff" id="668">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_14:45_-_introduction_to_qml_also_known_as_qt_quick_with_kevin_funk_and_jesper_pedersen_-_668</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to QML, also known as Qt Quick, with Kevin Funk and
-Jesper Pedersen</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e672-0109-2016-ffff-ffffffffffff" id="672">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_16:15_-_coffee_break_-_672</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e669-0109-2016-ffff-ffffffffffff" id="669">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_16:30_-_introduction_to_qml_also_known_as_qt_quick_with_kevin_funk_and_jesper_pedersen_-_669</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to QML, also known as Qt Quick, with Kevin Funk and
-Jesper Pedersen</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e673-0109-2016-ffff-ffffffffffff" id="673">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>B03</room>
-<slug>b03_-_2016-09-01_18:00_-_evening_event_-_673</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-</room>
-<room name="B04">
-<event guid="fffff16-e675-0109-2016-ffff-ffffffffffff" id="675">
-<date>2016-09-01T09:00:00+02:00</date>
-<start>09:00</start>
-<duration>01:00</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_09:00_-_registration_and_coffee_-_675</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Registration and Coffee</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e674-0109-2016-ffff-ffffffffffff" id="674">
-<date>2016-09-01T10:00:00+02:00</date>
-<start>10:00</start>
-<duration>02:00</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_10:00_-_beyond_code_-_improved_quality_through_user_centric_development_with_bjorn_balazs_-_674</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Beyond code - Improved Quality through User Centric Development,
-with Björn Balazs</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e679-0109-2016-ffff-ffffffffffff" id="679">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_12:00_-_lunch_-_679</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Lunch</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e676-0109-2016-ffff-ffffffffffff" id="676">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_13:00_-_beyond_code_-_improved_quality_through_user_centric_development_with_bjorn_balazs_-_676</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Beyond code - Improved Quality through User Centric Development,
-with Björn Balazs</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e680-0109-2016-ffff-ffffffffffff" id="680">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_14:30_-_coffee_break_-_680</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e677-0109-2016-ffff-ffffffffffff" id="677">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_14:45_-_beyond_code_-_improved_quality_through_user_centric_development_with_bjorn_balazs_-_677</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Beyond code - Improved Quality through User Centric Development,
-with Björn Balazs</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e681-0109-2016-ffff-ffffffffffff" id="681">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_16:15_-_coffee_break_-_681</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e678-0109-2016-ffff-ffffffffffff" id="678">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_16:30_-_beyond_code_-_improved_quality_through_user_centric_development_with_bjorn_balazs_-_678</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Beyond code - Improved Quality through User Centric Development,
-with Björn Balazs</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e682-0109-2016-ffff-ffffffffffff" id="682">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>B04</room>
-<slug>b04_-_2016-09-01_18:00_-_evening_event_-_682</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-</room>
-<room name="B95">
-<event guid="fffff16-e684-0109-2016-ffff-ffffffffffff" id="684">
-<date>2016-09-01T09:00:00+02:00</date>
-<start>09:00</start>
-<duration>01:00</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_09:00_-_registration_and_coffee_-_684</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Registration and Coffee</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e683-0109-2016-ffff-ffffffffffff" id="683">
-<date>2016-09-01T10:00:00+02:00</date>
-<start>10:00</start>
-<duration>02:00</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_10:00_-_introduction_to_testing_qt_applications_with_squish_with_florian_turck_-_683</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Testing Qt applications with Squish, with Florian
-Turck</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e688-0109-2016-ffff-ffffffffffff" id="688">
-<date>2016-09-01T12:00:00+02:00</date>
-<start>12:00</start>
-<duration>01:00</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_12:00_-_lunch_-_688</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Lunch</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e685-0109-2016-ffff-ffffffffffff" id="685">
-<date>2016-09-01T13:00:00+02:00</date>
-<start>13:00</start>
-<duration>01:30</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_13:00_-_introduction_to_testing_qt_applications_with_squish_with_florian_turck_-_685</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Testing Qt applications with Squish, with Florian
-Turck</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e689-0109-2016-ffff-ffffffffffff" id="689">
-<date>2016-09-01T14:30:00+02:00</date>
-<start>14:30</start>
-<duration>00:15</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_14:30_-_coffee_break_-_689</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e686-0109-2016-ffff-ffffffffffff" id="686">
-<date>2016-09-01T14:45:00+02:00</date>
-<start>14:45</start>
-<duration>01:30</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_14:45_-_introduction_to_testing_qt_applications_with_squish_with_florian_turck_-_686</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Testing Qt applications with Squish, with Florian
-Turck</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e690-0109-2016-ffff-ffffffffffff" id="690">
-<date>2016-09-01T16:15:00+02:00</date>
-<start>16:15</start>
-<duration>00:15</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_16:15_-_coffee_break_-_690</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Coffee break</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e687-0109-2016-ffff-ffffffffffff" id="687">
-<date>2016-09-01T16:30:00+02:00</date>
-<start>16:30</start>
-<duration>01:15</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_16:30_-_introduction_to_testing_qt_applications_with_squish_with_florian_turck_-_687</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Introduction to Testing Qt applications with Squish, with Florian
-Turck</title>
-<subtitle/>
-<track>Misc</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-<event guid="fffff16-e691-0109-2016-ffff-ffffffffffff" id="691">
-<date>2016-09-01T18:00:00+02:00</date>
-<start>18:00</start>
-<duration>02:00</duration>
-<room>B95</room>
-<slug>b95_-_2016-09-01_18:00_-_evening_event_-_691</slug>
-<recording>
-<license>Creative Commons by SA</license>
-<optout>false</optout>
-</recording>
-<title>Evening event</title>
-<subtitle/>
-<track>Break</track>
-<type/>
-<language/>
-<abstract/>
-<description/>
-<logo>https://conf.qtcon.org/assets/qtcon.jpg</logo>
-<persons>
-</persons>
-<links>
-</links>
-<attachments>
-</attachments>
-</event>
-</room>
-<room name="B02">
-</room>
-<room name="B01">
-</room>
+
 </day>
 </schedule>
+
+
+<event guid="fffff16-e594-0109-2016-ffff-ffffffffffff" id="594">
+<date>2018-07-02T14:15:00+02:00</date>
+<start>14:15</start>
+<duration>02:30</duration>
+<room></room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title></title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
