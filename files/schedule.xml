@@ -283,4 +283,90 @@ Requirements for the workshop:
 </room>
 
 </day>
+
+<day date="2018-07-03" end="2018-07-03T17:55:00+02:00" index="1" start="2018-07-03T09:00:00+02:00">
+
+<room name="Amphi MIGEON">
+
+<event guid="11" id="11">
+<date>2018-07-03T09:00:00+02:00</date>
+<start>09:00</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Traffic filtering at scale on Linux</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>BPF programs are widely known for packet filtering in libpcap (the underlying capture library used by tcpdump and wireshark). One can also use them for performance analysis (perf uses BPF programs), but also for security purposes (seccomp uses BPF as well). In this talk, we focus on networking and dive into BPF bytecode. First, we will have a look on the available toolchains and API. Then we will jump into actual BPF programs and figure how eBPF can be leveraged to perform traffic filtering using several mechanism amongst socket filtering API, iptables and tc. Finally, we will scratch the surface of XDP capabilities.</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>François Serman (OVH)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="12" id="12">
+<date>2018-07-03T09:35:00+02:00</date>
+<start>09:35</start>
+<duration>00:35</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>Performance with a S like Security: the eBPF XDP case </title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>extended Berkeley Packet Filter (eBPF) and eXtreme Data Path (XDP) technologies are gaining in popularity in the tracing and performance community in Linux for eBPF and among the networking people for XDP. After an introduction to these technologies, this talk proposes to get a look to the usage of the eBPF and XDP technology in the domain of security. A special focus on Suricata that uses this technology to enhance its performance and by consequences the accuracy of its network analysis and detection.</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+	<person>Éric Leblond (Suricata core developer, Stamus Networks)</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+<event guid="" id="">
+<date>2018-07-03T10:10:00+02:00</date>
+<start>10:10</start>
+<duration>00:20</duration>
+<room></room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>**Morning Pause**</title>
+<subtitle/>
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
+</room>
+</day>
+
 </schedule>
