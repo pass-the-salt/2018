@@ -15,6 +15,13 @@ Le programme de Pass the SALT (Security And Libre Talks) est désormais **en lig
 
 Et désormais, **profitez de ce programme, ateliers comme conférences** et venez partager votre savoir et collaborer.
 
+**Programme disponible au travers l'application Android générique d'affichage de programme de conférences, Giggity:**
+* installer Giggity depuis le [Playstore](https://play.google.com/store/apps/details?id=net.gaast.giggity&hl=en) ou depuis [F-Droid](https://f-droid.org/en/packages/net.gaast.giggity/)
+* ajouter l'URL du programme ([+] > add URL): 
+[https://2018.pass-the-salt.org/files/schedule.xml](https://2018.pass-the-salt.org/files/schedule.xml) 
+
+Aussi disponible, sans besoin d'aucune application, la version [PDF](https://2018.pass-the-salt.org/files/schedule.pdf). 
+
 <br />
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Programme des ateliers</h2></div>
 
@@ -82,7 +89,7 @@ Et désormais, **profitez de ce programme, ateliers comme conférences** et vene
   by **Julien Voisin**, **Thibault Koechlin**, **Simon Magnin-Feysot** (Snuffleupagus developers, NBS Systems)<br />
 * 15:25 - 15:45: [**Preview of Vulture's upcoming web filtering engine**](#vulture) <br />
   by **Jérémie Jourdin** and **Hugo Soszynski** (Vulture developers, aDvens)
-* 15:45 - 16:05: [**SecureDrop, for whistle-blowers**](#securedrop) <br />
+* 15:45 - 16:05: **ANNULEE** [**SecureDrop, for whistle-blowers**](#securedrop) <br />
   by **François Poulain** & **Loïc Darchary** (SecureDrop admin, developer)
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
 
