@@ -89,7 +89,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Julien Voisin**, **Thibault Koechlin**, **Simon Magnin-Feysot** (Snuffleupagus developers, NBS Systems)<br />
 * 15:25 - 15:45: [**Preview of Vulture's upcoming web filtering engine**](#vulture) <br />
   by **Jérémie Jourdin** and **Hugo Soszynski** (Vulture developers, aDvens)
-* 15:45 - 16:05: **ANNULEE** [**SecureDrop, for whistle-blowers**](#securedrop) <br />
+* 15:45 - 16:05: **[ANNULEE]** [**SecureDrop, for whistle-blowers**](#securedrop) <br />
   by **François Poulain** & **Loïc Darchary** (SecureDrop admin, developer)
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
 
