@@ -47,21 +47,22 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 ## lundi 2 juillet 2018 
 
 * 14:00 - 14:15: **launching talk**<br/>
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Linux Distribution Security</h3></div>
+<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px">  ([slides](/files/talks/0-intro-PTS18.pdf)/div>
 * 14:15 - 14:50: [**Debian security team: behind the curtains**](#debiansecteam) <br />
-  by **Yves-Alexis Perez** (Security researcher and developer, Debian security team)
+  by **Yves-Alexis Perez** (Security researcher and developer, Debian security team) ([slides](/files/talks/01-debian-security-team.pdf) 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Reverse and Low-Level Session</h3></div>
 * 14:50 - 15:25: [**r2frida - Better Together**](#r2frida) <br />
-  by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** aka pancake (r2 developer)
+  by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** aka pancake (r2 developer) [slides](/files/talks/02-r2frida.pdf)
 * 15:25 - 16-00: [**Static instrumentation based on executable file formats**](#instrumentation)<br />
   by **Romain Thomas** (LIEF developer, Quarkslab)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
 * 16:20 - 16:55: [**Machine-Code Analysis With Open-Source Decompiler RetDec**](#retdec) <br />
   by **Jakub Kroustek** & **Peter Matula** (RetDec developers, Avast software)
 * 16:55 - 17:30: [**Are there Spectre-based malware on your Android smartphone?**](#spectre)<br />
-  by **Axelle Apvrille** (Senior researcher, Fortinet) 
+  by **Axelle Apvrille** (Senior researcher, Fortinet) [slides](/files/talks/05-spectre.pdf)
 * 17:30 - 17:50: [**A graphical user interface for radare2: Cutter**](#cutter)<br />
   by **Antide Petit** (Cutter developer)
+
 
 ## mardi 3 juillet 2018 
 
