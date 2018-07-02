@@ -91,6 +91,8 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Jérémie Jourdin** and **Hugo Soszynski** (Vulture developers, aDvens)
 * 15:45 - 16:05: **[ANNULEE]** [**SecureDrop, for whistle-blowers**](#securedrop) <br />
   by **François Poulain** & **Loïc Darchary** (SecureDrop admin, developer)
+* 15:45 - 16:05: **How-To clusterize malwares datasets with open source tools and data** <br />
+  by **Sébastien Larinier** (Independant Security Researcher, @Sebdraven)
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>IAM Session</h3></div>

@@ -596,6 +596,33 @@ We will describe how SecureDrop works, how sources/journalists should use it, an
 </attachments>
 </event>
 
+<event guid="21" id="21">
+<date>2018-07-03T15:45:00+02:00</date>
+<start>15:45</start>
+<duration>00:20</duration>
+<room>Amphi MIGEON</room>
+<recording>
+<license>Creative Commons by SA</license>
+<optout>false</optout>
+</recording>
+<title>How-To clusterize malwares datasets with open source tools and data</title>
+<subtitle/>How-To clusterize malwares datasets with open source tools and data
+<track></track>
+<type/>
+<language/>
+<abstract>
+</abstract>
+<description/>
+<logo>https://2018.pass-the-salt.org/img/salt-512.png</logo>
+<persons>
+    <person>Sébastien Larinier, @sebdraven, independant security researcher</person>
+</persons>
+<links>
+</links>
+<attachments>
+</attachments>
+</event>
+
 <event guid="22" id="22">
 <date>2018-07-03T16:05:00+02:00</date>
 <start>16:05</start>
