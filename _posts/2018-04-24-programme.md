@@ -33,7 +33,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Sami Mokaddem** (CIRCL)
 * mardi 3 juillet 2018, après-midi :
   * [**URL Analysis with Faup**](#wsfaup)<br />
-  by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk)
+  by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk) - ([slides](workshop-faup.pdf))
 * mercredi 4 juillet 2018, matin :
   * [**FreeIPA: Open Source Identity Management**](#wsfreeipa)<br />
   by **Florence Renaud**  (Senior Software Engineer FreeIPA, Red Hat) and **Fraser Tweedale**  (Software Engineer, Red Hat)
@@ -46,22 +46,22 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 
 ## lundi 2 juillet 2018 
 
-* 14:00 - 14:15: **launching talk**<br/>
+* 14:00 - 14:15: **launching talk** - [(slides)](/files/talks/00-intro-PTS18.pdf)<br/>
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Linux Distribution Security</h3></div>
 * 14:15 - 14:50: [**Debian security team: behind the curtains**](#debiansecteam) <br />
-  by **Yves-Alexis Perez** (Security researcher and developer, Debian security team)
+  by **Yves-Alexis Perez** (Security researcher and developer, Debian security team) - [(slides)](/files/talks/01-debian-security-team.pdf)
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Reverse and Low-Level Session</h3></div>
 * 14:50 - 15:25: [**r2frida - Better Together**](#r2frida) <br />
-  by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** aka pancake (r2 developer)
+  by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** aka pancake (r2 developer) - [(slides)](/files/talks/02-r2frida.pdf)
 * 15:25 - 16-00: [**Static instrumentation based on executable file formats**](#instrumentation)<br />
   by **Romain Thomas** (LIEF developer, Quarkslab)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
 * 16:20 - 16:55: [**Machine-Code Analysis With Open-Source Decompiler RetDec**](#retdec) <br />
   by **Jakub Kroustek** & **Peter Matula** (RetDec developers, Avast software)
 * 16:55 - 17:30: [**Are there Spectre-based malware on your Android smartphone?**](#spectre)<br />
-  by **Axelle Apvrille** (Senior researcher, Fortinet) 
+  by **Axelle Apvrille** (Senior researcher, Fortinet)  - [(slides)](/files/talks/05-spectre.pdf)
 * 17:30 - 17:50: [**A graphical user interface for radare2: Cutter**](#cutter)<br />
-  by **Antide Petit** (Cutter developer)
+  by **Antide Petit** (Cutter developer) - [(slides)](/files/talks/06-cutter.pdf)
 
 ## mardi 3 juillet 2018 
 
@@ -70,16 +70,16 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 * 09:00 - 09:35: [**Traffic filtering at scale on Linux**](#traffic) <br />
   by **François Serman** (OVH)
 * 09:35 - 10:10: [**Performance with a S like Security: the eBPF XDP case**](#ebpfxdp) <br />
-  by **Éric Leblond** (Suricata core developer, Stamus Networks)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause du matin ~~~</div></div>
+  by **Éric Leblond** (Suricata core developer, Stamus Networks) - [(slides)](/files/talks/08-suricata-ebpf.pdf)
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ morning pause ~~~</div></div>
 * 10:30 - 11:05: [**KEYNOTE: a 10 years journey in Linux firewalling**](#netfilter) <br />
   by **Pablo Neira Ayuso** (Head of Netfilter core team)
 * 11:05 - 11:40: [**Full packet capture for the masses**](#capture) <br />
-  by **Xavier Mertens** (Security consultant, ISC SANS handler)<br /><br />
+  by **Xavier Mertens** (Security consultant, ISC SANS handler) - [(slides)](/files/talks/10-full-packets-capture-for-the-masses.pdf)<br /><br />
 * 11:40 - 12:15: [**Rumps session**](#rumps)<br />
-  by **you!**
+  by **you!** - Slides : [cve](/files/talks/rump-cve.pdf), [suriwire](/files/talks/rump-suriwire.pdf), [the Hive and imap](rump-thehive-feedmybees.pdf)
 
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause méridienne ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Web Security Session</h3></div>
 
@@ -89,19 +89,19 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Julien Voisin**, **Thibault Koechlin**, **Simon Magnin-Feysot** (Snuffleupagus developers, NBS Systems)<br />
 * 15:25 - 15:45: [**Preview of Vulture's upcoming web filtering engine**](#vulture) <br />
   by **Jérémie Jourdin** and **Hugo Soszynski** (Vulture developers, aDvens)
-* 15:45 - 16:05: **[ANNULEE]** [**SecureDrop, for whistle-blowers**](#securedrop) <br />
+* 15:45 - 16:05: **[CANCELLED]** [**SecureDrop, for whistle-blowers**](#securedrop) <br />
   by **François Poulain** & **Loïc Darchary** (SecureDrop admin, developer)
 * 15:45 - 16:05: **How-To clusterize malwares datasets with open source tools and data** <br />
   by **Sébastien Larinier** (Independant Security Researcher, @Sebdraven)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après-midi ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>IAM Session</h3></div>
 * 16:25 - 17:00: [**Second factor authentication (2FA) in LemonLDAP::NG**](#lemonldap)<br />
-  by **Clément Oudot** & **Xavier Guimard** (LemonLDAP::NG developers) <br />
+  by **Clément Oudot** & **Xavier Guimard** (LemonLDAP::NG developers) - [(slides)](/files/talks/15-2fa-llng) <br />
 * 17:00 - 17:35: [**No way JOSE! Lessons for authors and implementers of open standards**](#jose)<br />
-  by **Fraser Tweedale** (Software Engineer, Red Hat)
+  by **Fraser Tweedale** (Software Engineer, Red Hat) - [(slides)](/files/talks/16-jose.pdf)
 * 17:35 - 17:55: [**Too bad… your password has just been stolen! Did you consider using 2FA?**](#freeipa)<br />
-  by **Florence Blanc-Renaud** (Senior Software Engineer FreeIPA, Red Hat)
+  by **Florence Blanc-Renaud** (Senior Software Engineer FreeIPA, Red Hat) - [(slides)](/files/talks/17-freeipa-2fa.pdf)
 
 ## mercredi 4 juillet 2018 
 
@@ -111,7 +111,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Alexandre Dulaunoy** (CIRCL) & **Andras Iklody** (CIRCL)
 * 09:35 - 10:10: [**The story of Greendale**](#greendale) <br />
   by **Thomas Chopitea** (Forensics investigator and engineer, Google)
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause du matin ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ morning pause ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Secure Programming and Architecture Session</h3></div>
 * 10:30 - 11:05: [**Internals of Landlock: a new kind of Linux Security Module leveraging eBPF**](#landlock) <br />
@@ -121,17 +121,17 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 * 11:40 - 12:15: [**Immutable infrastructure and zero trust networking: designing your system for resilience**](#immutable) <br />
   by **Geoffroy Couprie** (Security researcher and developer, Clever Cloud)
 
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause méridienne ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>IoT Security Session</h3></div>
 
 * 14:15 - 14:50: [**IoT Honeypot, new types of attacks**](#iothoneypot) <br />
-  by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk)
+  by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk) - [(slides)](/files/talks/23-iot-honeypot.pdf)
 * 14:50 - 15:25: [**Io(M)T Security: A year in review**](#iotyear) <br />
   by **Rayna Stamboliyska** (Risk management and crisis mitigation expert) 
 * 15:25 - 16:00: [**Expl-iot: IoT Security Testing Framework**](#expliot)<br />
   by **Aseem Jakhar** (R&D director and open source developer, Payatu software lab)<br />
-<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ pause de l'après midi ~~~</div></div>
+<div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Red Team Session</h3></div>
 * 16:20 - 16:40: [**Freedom Fighting Mode - Open Source Hacking Harness**](#harness)<br />
