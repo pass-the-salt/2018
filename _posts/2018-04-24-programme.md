@@ -33,7 +33,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Sami Mokaddem** (CIRCL)
 * mardi 3 juillet 2018, après-midi :
   * [**URL Analysis with Faup**](#wsfaup)<br />
-  by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk) - ([slides](workshop-faup.pdf))
+  by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk) - ([slides](/files/talks/workshop-faup.pdf))
 * mercredi 4 juillet 2018, matin :
   * [**FreeIPA: Open Source Identity Management**](#wsfreeipa)<br />
   by **Florence Renaud**  (Senior Software Engineer FreeIPA, Red Hat) and **Fraser Tweedale**  (Software Engineer, Red Hat)
