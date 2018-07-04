@@ -77,7 +77,15 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 * 11:05 - 11:40: [**Full packet capture for the masses**](#capture) <br />
   by **Xavier Mertens** (Security consultant, ISC SANS handler) - [(slides)](/files/talks/10-full-packets-capture-for-the-masses.pdf)<br /><br />
 * 11:40 - 12:15: [**Rumps session**](#rumps)<br />
-  by **you!** - Slides : [cve](/files/talks/rump-cve.pdf), [suriwire](/files/talks/rump-suriwire.pdf), [the Hive and imap](rump-thehive-feedmybees.pdf)
+  **Suriwire** by **Éric Leblond** - [(slides)](/files/talks/rump01-suriwire.pdf)
+  <br>**Let's talk about curl** by **Yoann Lamouroux**
+  <br>**Secured distributed storage and sharing** by **Julien Peeters**
+  <br>**ops vs secu : how it work** by **Camille Raynaud-Coco**
+  <br>**Warning: it can break my reputation...** by **Clément Oudot** - [(slides)](/files/talks/rump05-cve.pdf)
+  <br>**Automated (RPM) packages signing** by **Thomas Gerbet**
+  <br>**TheHive - Feeding your Bees** by **Xavier Mertens** - [(slides)](/files/talks/rump07-thehive-feedmybees.pdf)
+  <br>**Fun (or not) with C ABIs** by **Adrien Guinet**
+  <br>**Story behind our goodies** by **Philippe Teuwen** - [(slides)](/files/talks/rump09-story-behind-our-goodies.pdf)
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK ~~~</div></div>
 
