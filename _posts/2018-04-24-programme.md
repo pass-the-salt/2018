@@ -30,7 +30,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Eva Szilagyi** (CEO at Alzette Information Security) and **David Szili** (CTO at Alzette Information Security)
 * mardi 3 juillet 2018, matin :
   * [**AIL-Framework: A modular framework to analyse potential information leaks**](#wsail)<br />
-  by **Sami Mokaddem** (CIRCL)
+  by **Sami Mokaddem** (CIRCL) - ([slides](/files/talks/workshop-ail.pdf))
 * mardi 3 juillet 2018, après-midi :
   * [**URL Analysis with Faup**](#wsfaup)<br />
   by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk) - ([slides](/files/talks/workshop-faup.pdf))
@@ -54,10 +54,10 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 * 14:50 - 15:25: [**r2frida - Better Together**](#r2frida) <br />
   by **Ole André V. Ravnås** (Frida developer) and **‎Sergi Alvarez** aka pancake (r2 developer) - [(slides)](/files/talks/02-r2frida.pdf)
 * 15:25 - 16-00: [**Static instrumentation based on executable file formats**](#instrumentation)<br />
-  by **Romain Thomas** (LIEF developer, Quarkslab)
+  by **Romain Thomas** (LIEF developer, Quarkslab) - [(slides)](/files/talks/03-static-instrumentation.pdf)
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
 * 16:20 - 16:55: [**Machine-Code Analysis With Open-Source Decompiler RetDec**](#retdec) <br />
-  by **Jakub Kroustek** & **Peter Matula** (RetDec developers, Avast software)
+  by **Jakub Kroustek** & **Peter Matula** (RetDec developers, Avast software) - [(slides)](/files/talks/04-retdec.pdf)
 * 16:55 - 17:30: [**Are there Spectre-based malware on your Android smartphone?**](#spectre)<br />
   by **Axelle Apvrille** (Senior researcher, Fortinet)  - [(slides)](/files/talks/05-spectre.pdf)
 * 17:30 - 17:50: [**A graphical user interface for radare2: Cutter**](#cutter)<br />
