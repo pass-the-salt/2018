@@ -128,7 +128,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 * 14:15 - 14:50: [**IoT Honeypot, new types of attacks**](#iothoneypot) <br />
   by **Sébastien Tricaud** (Open source and security pro and enthusiast, Splunk) 
 * 14:50 - 15:25: [**Io(M)T Security: A year in review**](#iotyear) <br />
-  by **Rayna Stamboliyska** (Risk management and crisis mitigation expert) 
+  by **Rayna Stamboliyska** (Risk management and crisis mitigation expert) - [(slides)](/files/talks/23-iot-honeypot.pdf)
 * 15:25 - 16:00: [**Expl-iot: IoT Security Testing Framework**](#expliot)<br />
   by **Aseem Jakhar** (R&D director and open source developer, Payatu software lab)<br />
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
