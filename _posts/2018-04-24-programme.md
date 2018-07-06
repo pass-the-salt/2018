@@ -291,7 +291,7 @@ In this talk we will present Frida and Radare as separate and combined tools. Ha
 <br /><br />
 <strong>Ole André V. Ravnås</strong>
 <br />
-<i>Bio TODO.</i>
+<i>Creator of Frida. Security Researcher at NowSecure. Polyglot hacker  passionate about reverse-engineering and dynamic instrumentation.</i>
 <br>
 <strong>‎Sergi Alvarez aka pancake</strong>
 <br />
