@@ -80,7 +80,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   **Story behind our conference** by **Christophe Brocas** - [(slides)](/files/talks/rump00-story-behind-our-conference.pdf)
   <br>**Suriwire** by **Éric Leblond** - [(slides)](/files/talks/rump01-suriwire.pdf)
   <br>**Let's talk about curl** by **Yoann Lamouroux**
-  <br>**Secured distributed storage and sharing** by **Julien Peeters**
+  <br>**Secured distributed storage and sharing** by **Julien Peeters** - [(slides)](/files/talks/rump03-trusted-storage.pdf)
   <br>**ops vs secu : how it work** by **Camille Raynaud-Coco**
   <br>**Warning: it can break my reputation...** by **Clément Oudot** - [(slides)](/files/talks/rump05-cve.pdf)
   <br>**Automated (RPM) packages signing** by **Thomas Gerbet** - [(slides)](/files/talks/rump06-automated-package-signing.pdf)
