@@ -85,7 +85,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   <br>**Warning: it can break my reputation...** by **Clément Oudot** - [(slides)](/files/talks/rump05-cve.pdf)
   <br>**Automated (RPM) packages signing** by **Thomas Gerbet**
   <br>**TheHive - Feeding your Bees** by **Xavier Mertens** - [(slides)](/files/talks/rump07-thehive-feedmybees.pdf)
-  <br>**Fun (or not) with C ABIs** by **Adrien Guinet**
+  <br>**Fun (or not) with C ABIs** by **Adrien Guinet** - [(slides)](/files/talks/rump08-c-abis.pdf)
   <br>**Story behind our goodies** by **Philippe Teuwen** - [(slides)](/files/talks/rump09-story-behind-our-goodies.pdf)
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ MID DAY BREAK ~~~</div></div>
