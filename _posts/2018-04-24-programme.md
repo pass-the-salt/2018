@@ -39,7 +39,7 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
   by **Florence Renaud**  (Senior Software Engineer FreeIPA, Red Hat) and **Fraser Tweedale**  (Software Engineer, Red Hat) - [(slides)](/files/talks/workshop04-freeipa.pdf)
 * mercredi 4 juillet 2018, après-midi :
   * [**Suricata and SELKS workshop**](#wsselks)<br />
-  by **Éric Leblond** (Suricata core developer, Stamus Networks)
+  by **Éric Leblond** (Suricata core developer, Stamus Networks) - [(slides)](/files/talks/workshop05-suricata.pdf)
 
 <br />
 <div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Programme des conférences</h2></div> 
