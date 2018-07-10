@@ -97,11 +97,11 @@ Aussi disponible, sans besoin d'aucune application, la version [PDF](https://201
 * 14:50 - 15:25: [**Snuffleupagus: killing bug classes and virtual patching the rest**](#snuffleupagus)<br />
   by **Julien Voisin**, **Thibault Koechlin**, **Simon Magnin-Feysot** (Snuffleupagus developers, NBS Systems) - [(slides)](/files/talks/12-snuffleupagus.pdf)<br />
 * 15:25 - 15:45: [**Preview of Vulture's upcoming web filtering engine**](#vulture) <br />
-  by **Jérémie Jourdin** and **Hugo Soszynski** (Vulture developers, aDvens)
+  by **Jérémie Jourdin** and **Hugo Soszynski** (Vulture developers, aDvens) - [(slides)](/files/talks/13-vulture.pdf)
 * 15:45 - 16:05: **[CANCELLED]** [**SecureDrop, for whistle-blowers**](#securedrop) <br />
   by **François Poulain** & **Loïc Darchary** (SecureDrop admin, developer)
 * 15:45 - 16:05: **How-To clusterize malwares datasets with open source tools and data** <br />
-  by **Sébastien Larinier** (Independant Security Researcher, @Sebdraven)
+  by **Sébastien Larinier** (Independant Security Researcher, @Sebdraven) - [(slides)](/files/talks/14-python-and-ml.pdf)
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ afternoon pause ~~~</div></div>
 
 <div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>IAM Session</h3></div>
